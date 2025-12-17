@@ -1,0 +1,1924 @@
+<MythMastery>
+	<RebirthEarlyPenalty AddGemPenaltyPerMissingLevel="200" />
+	<MythStart InitialPoints="3" />
+
+	<SlotGroupPoolNew>
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="1" SlotType="0" LockGroup="0" PreSlot="0" PreSlot2="0" UnlockCost="3" RestoreCost="22" PoolID="0" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="2" SlotType="6" LockGroup="0" PreSlot="0" PreSlot2="0" UnlockCost="3" RestoreCost="22" PoolID="22" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="3" SlotType="3" LockGroup="0" PreSlot="0" PreSlot2="0" UnlockCost="3" RestoreCost="22" PoolID="11" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="4" SlotType="0" LockGroup="0" PreSlot="1" PreSlot2="0" UnlockCost="5" RestoreCost="22" PoolID="0" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="5" SlotType="0" LockGroup="0" PreSlot="1" PreSlot2="0" UnlockCost="5" RestoreCost="22" PoolID="0" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="6" SlotType="6" LockGroup="0" PreSlot="2" PreSlot2="0" UnlockCost="5" RestoreCost="22" PoolID="22" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="7" SlotType="6" LockGroup="0" PreSlot="2" PreSlot2="0" UnlockCost="5" RestoreCost="22" PoolID="22" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="8" SlotType="3" LockGroup="0" PreSlot="3" PreSlot2="0" UnlockCost="5" RestoreCost="22" PoolID="11" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="9" SlotType="3" LockGroup="0" PreSlot="3" PreSlot2="0" UnlockCost="5" RestoreCost="22" PoolID="11" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="10" SlotType="1" LockGroup="0" PreSlot="11" PreSlot2="0" UnlockCost="10" RestoreCost="22" PoolID="5" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="11" SlotType="9" LockGroup="0" PreSlot="4" PreSlot2="5" UnlockCost="7" RestoreCost="22" PoolID="33" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="12" SlotType="7" LockGroup="0" PreSlot="13" PreSlot2="0" UnlockCost="10" RestoreCost="22" PoolID="27" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="13" SlotType="9" LockGroup="0" PreSlot="6" PreSlot2="7" UnlockCost="7" RestoreCost="22" PoolID="41" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="14" SlotType="7" LockGroup="0" PreSlot="13" PreSlot2="0" UnlockCost="10" RestoreCost="22" PoolID="27" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="15" SlotType="9" LockGroup="0" PreSlot="8" PreSlot2="9" UnlockCost="7" RestoreCost="22" PoolID="37" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="16" SlotType="4" LockGroup="0" PreSlot="15" PreSlot2="0" UnlockCost="10" RestoreCost="22" PoolID="16" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="17" SlotType="0" LockGroup="1" PreSlot="11" PreSlot2="0" UnlockCost="7" RestoreCost="24" PoolID="1" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="18" SlotType="0" LockGroup="1" PreSlot="11" PreSlot2="0" UnlockCost="7" RestoreCost="24" PoolID="1" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="19" SlotType="6" LockGroup="1" PreSlot="12" PreSlot2="0" UnlockCost="7" RestoreCost="24" PoolID="23" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="20" SlotType="6" LockGroup="1" PreSlot="13" PreSlot2="0" UnlockCost="7" RestoreCost="24" PoolID="23" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="21" SlotType="6" LockGroup="1" PreSlot="13" PreSlot2="0" UnlockCost="7" RestoreCost="24" PoolID="23" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="22" SlotType="6" LockGroup="1" PreSlot="14" PreSlot2="0" UnlockCost="7" RestoreCost="24" PoolID="23" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="23" SlotType="3" LockGroup="1" PreSlot="15" PreSlot2="0" UnlockCost="7" RestoreCost="24" PoolID="12" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="24" SlotType="3" LockGroup="1" PreSlot="15" PreSlot2="0" UnlockCost="7" RestoreCost="24" PoolID="12" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="25" SlotType="1" LockGroup="1" PreSlot="26" PreSlot2="0" UnlockCost="15" RestoreCost="24" PoolID="6" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="26" SlotType="9" LockGroup="1" PreSlot="17" PreSlot2="18" UnlockCost="10" RestoreCost="24" PoolID="34" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="27" SlotType="7" LockGroup="1" PreSlot="28" PreSlot2="0" UnlockCost="15" RestoreCost="24" PoolID="28" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="28" SlotType="9" LockGroup="1" PreSlot="20" PreSlot2="21" UnlockCost="10" RestoreCost="24" PoolID="42" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="29" SlotType="7" LockGroup="1" PreSlot="28" PreSlot2="0" UnlockCost="15" RestoreCost="24" PoolID="28" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="30" SlotType="9" LockGroup="1" PreSlot="23" PreSlot2="24" UnlockCost="10" RestoreCost="24" PoolID="38" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="31" SlotType="4" LockGroup="1" PreSlot="30" PreSlot2="0" UnlockCost="15" RestoreCost="24" PoolID="17" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="32" SlotType="0" LockGroup="2" PreSlot="26" PreSlot2="0" UnlockCost="9" RestoreCost="26" PoolID="2" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="33" SlotType="0" LockGroup="2" PreSlot="26" PreSlot2="0" UnlockCost="9" RestoreCost="26" PoolID="2" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="34" SlotType="6" LockGroup="2" PreSlot="27" PreSlot2="0" UnlockCost="9" RestoreCost="26" PoolID="24" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="35" SlotType="6" LockGroup="2" PreSlot="28" PreSlot2="0" UnlockCost="9" RestoreCost="26" PoolID="24" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="36" SlotType="6" LockGroup="2" PreSlot="28" PreSlot2="0" UnlockCost="9" RestoreCost="26" PoolID="24" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="37" SlotType="6" LockGroup="2" PreSlot="29" PreSlot2="0" UnlockCost="9" RestoreCost="26" PoolID="24" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="38" SlotType="3" LockGroup="2" PreSlot="30" PreSlot2="0" UnlockCost="9" RestoreCost="26" PoolID="13" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="39" SlotType="3" LockGroup="2" PreSlot="30" PreSlot2="0" UnlockCost="9" RestoreCost="26" PoolID="13" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="40" SlotType="1" LockGroup="2" PreSlot="41" PreSlot2="0" UnlockCost="20" RestoreCost="26" PoolID="7" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="41" SlotType="9" LockGroup="2" PreSlot="32" PreSlot2="33" UnlockCost="13" RestoreCost="26" PoolID="35" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="42" SlotType="7" LockGroup="2" PreSlot="43" PreSlot2="0" UnlockCost="20" RestoreCost="26" PoolID="29" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="43" SlotType="9" LockGroup="2" PreSlot="35" PreSlot2="36" UnlockCost="13" RestoreCost="26" PoolID="43" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="44" SlotType="7" LockGroup="2" PreSlot="43" PreSlot2="0" UnlockCost="20" RestoreCost="26" PoolID="29" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="45" SlotType="9" LockGroup="2" PreSlot="38" PreSlot2="39" UnlockCost="13" RestoreCost="26" PoolID="39" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="46" SlotType="4" LockGroup="2" PreSlot="45" PreSlot2="0" UnlockCost="20" RestoreCost="26" PoolID="18" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="47" SlotType="0" LockGroup="3" PreSlot="41" PreSlot2="0" UnlockCost="11" RestoreCost="28" PoolID="3" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="48" SlotType="0" LockGroup="3" PreSlot="41" PreSlot2="0" UnlockCost="11" RestoreCost="28" PoolID="3" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="49" SlotType="6" LockGroup="3" PreSlot="43" PreSlot2="0" UnlockCost="11" RestoreCost="28" PoolID="25" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="50" SlotType="6" LockGroup="3" PreSlot="43" PreSlot2="0" UnlockCost="11" RestoreCost="28" PoolID="25" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="51" SlotType="3" LockGroup="3" PreSlot="45" PreSlot2="0" UnlockCost="11" RestoreCost="28" PoolID="14" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="52" SlotType="3" LockGroup="3" PreSlot="45" PreSlot2="0" UnlockCost="11" RestoreCost="28" PoolID="14" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="53" SlotType="0" LockGroup="3" PreSlot="54" PreSlot2="0" UnlockCost="13" RestoreCost="28" PoolID="3" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="54" SlotType="9" LockGroup="3" PreSlot="47" PreSlot2="48" UnlockCost="16" RestoreCost="28" PoolID="36" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="55" SlotType="7" LockGroup="3" PreSlot="56" PreSlot2="0" UnlockCost="25" RestoreCost="28" PoolID="30" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="56" SlotType="9" LockGroup="3" PreSlot="49" PreSlot2="50" UnlockCost="16" RestoreCost="28" PoolID="44" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="57" SlotType="7" LockGroup="3" PreSlot="56" PreSlot2="0" UnlockCost="25" RestoreCost="28" PoolID="30" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="58" SlotType="9" LockGroup="3" PreSlot="51" PreSlot2="52" UnlockCost="16" RestoreCost="28" PoolID="40" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="59" SlotType="3" LockGroup="3" PreSlot="58" PreSlot2="0" UnlockCost="13" RestoreCost="28" PoolID="14" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="60" SlotType="1" LockGroup="4" PreSlot="53" PreSlot2="0" UnlockCost="30" RestoreCost="30" PoolID="9" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="61" SlotType="0" LockGroup="4" PreSlot="54" PreSlot2="0" UnlockCost="15" RestoreCost="30" PoolID="4" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="62" SlotType="1" LockGroup="4" PreSlot="61" PreSlot2="0" UnlockCost="30" RestoreCost="30" PoolID="9" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="63" SlotType="6" LockGroup="4" PreSlot="56" PreSlot2="0" UnlockCost="15" RestoreCost="30" PoolID="26" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="64" SlotType="4" LockGroup="4" PreSlot="65" PreSlot2="0" UnlockCost="30" RestoreCost="30" PoolID="20" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="65" SlotType="3" LockGroup="4" PreSlot="58" PreSlot2="0" UnlockCost="15" RestoreCost="30" PoolID="15" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="66" SlotType="4" LockGroup="4" PreSlot="59" PreSlot2="0" UnlockCost="30" RestoreCost="30" PoolID="20" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="67" SlotType="1" LockGroup="4" PreSlot="61" PreSlot2="0" UnlockCost="35" RestoreCost="30" PoolID="9" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="68" SlotType="7" LockGroup="4" PreSlot="63" PreSlot2="0" UnlockCost="35" RestoreCost="30" PoolID="31" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="69" SlotType="4" LockGroup="4" PreSlot="65" PreSlot2="0" UnlockCost="35" RestoreCost="30" PoolID="20" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="70" SlotType="0" LockGroup="4" PreSlot="67" PreSlot2="0" UnlockCost="18" RestoreCost="30" PoolID="4" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="71" SlotType="0" LockGroup="4" PreSlot="67" PreSlot2="0" UnlockCost="18" RestoreCost="30" PoolID="4" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="72" SlotType="6" LockGroup="4" PreSlot="68" PreSlot2="0" UnlockCost="18" RestoreCost="30" PoolID="26" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="73" SlotType="6" LockGroup="4" PreSlot="68" PreSlot2="0" UnlockCost="18" RestoreCost="30" PoolID="26" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="74" SlotType="3" LockGroup="4" PreSlot="69" PreSlot2="0" UnlockCost="18" RestoreCost="30" PoolID="15" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="75" SlotType="3" LockGroup="4" PreSlot="69" PreSlot2="0" UnlockCost="18" RestoreCost="30" PoolID="15" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="76" SlotType="2" LockGroup="4" PreSlot="70" PreSlot2="71" UnlockCost="50" RestoreCost="30" PoolID="10" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="77" SlotType="8" LockGroup="4" PreSlot="72" PreSlot2="73" UnlockCost="50" RestoreCost="30" PoolID="32" />
+		<MythSlotDefinition MasteryIndex="0" SlotIndex="78" SlotType="5" LockGroup="4" PreSlot="74" PreSlot2="75" UnlockCost="50" RestoreCost="30" PoolID="21" />
+	</SlotGroupPoolNew>
+	<MasterySlotValuePool>
+		<Pool ID="0">
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="1" ForceValueType="1" Grade="1" Tier="74" Rate="1" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="2" ForceValueType="1" Grade="2" Tier="74" Rate="2" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="3" ForceValueType="1" Grade="3" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="4" ForceValueType="1" Grade="4" Tier="74" Rate="4" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="5" ForceValueType="1" Grade="5" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="6" ForceValueType="1" Grade="6" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="7" ForceValueType="1" Grade="7" Tier="74" Rate="2" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="9" ForceValueType="1" Grade="8" Tier="74" Rate="1" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="12" ForceValueType="1" Grade="9" Tier="74" Rate="0.6" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="16" ForceValueType="1" Grade="10" Tier="74" Rate="0.4" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="1" ForceValueType="1" Grade="1" Tier="74" Rate="1" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="2" ForceValueType="1" Grade="2" Tier="74" Rate="2" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="3" ForceValueType="1" Grade="3" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="4" ForceValueType="1" Grade="4" Tier="74" Rate="4" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="5" ForceValueType="1" Grade="5" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="6" ForceValueType="1" Grade="6" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="7" ForceValueType="1" Grade="7" Tier="74" Rate="2" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="9" ForceValueType="1" Grade="8" Tier="74" Rate="1" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="12" ForceValueType="1" Grade="9" Tier="74" Rate="0.6" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="16" ForceValueType="1" Grade="10" Tier="74" Rate="0.4" />
+			<Value SlotType="0" ForceEffectIndex="204" ForceValue="1" ForceValueType="1" Grade="1" Tier="63" Rate="3.75" />
+			<Value SlotType="0" ForceEffectIndex="204" ForceValue="2" ForceValueType="1" Grade="2" Tier="63" Rate="6.45" />
+			<Value SlotType="0" ForceEffectIndex="204" ForceValue="3" ForceValueType="1" Grade="3" Tier="63" Rate="3.75" />
+			<Value SlotType="0" ForceEffectIndex="204" ForceValue="5" ForceValueType="1" Grade="4" Tier="63" Rate="0.75" />
+			<Value SlotType="0" ForceEffectIndex="204" ForceValue="8" ForceValueType="1" Grade="5" Tier="63" Rate="0.3" />
+			<Value SlotType="0" ForceEffectIndex="205" ForceValue="1" ForceValueType="1" Grade="1" Tier="63" Rate="3.75" />
+			<Value SlotType="0" ForceEffectIndex="205" ForceValue="2" ForceValueType="1" Grade="2" Tier="63" Rate="6.45" />
+			<Value SlotType="0" ForceEffectIndex="205" ForceValue="3" ForceValueType="1" Grade="3" Tier="63" Rate="3.75" />
+			<Value SlotType="0" ForceEffectIndex="205" ForceValue="5" ForceValueType="1" Grade="4" Tier="63" Rate="0.75" />
+			<Value SlotType="0" ForceEffectIndex="205" ForceValue="8" ForceValueType="1" Grade="5" Tier="63" Rate="0.3" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="5" ForceValueType="1" Grade="1" Tier="53" Rate="10" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="10" ForceValueType="1" Grade="2" Tier="53" Rate="8.18" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="15" ForceValueType="1" Grade="3" Tier="53" Rate="1.6" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="20" ForceValueType="1" Grade="4" Tier="53" Rate="0.2" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="30" ForceValueType="1" Grade="5" Tier="53" Rate="0.02" />
+			<Value SlotType="0" ForceEffectIndex="155" ForceValue="1" ForceValueType="1" Grade="1" Tier="43" Rate="2.75" />
+			<Value SlotType="0" ForceEffectIndex="155" ForceValue="2" ForceValueType="1" Grade="2" Tier="43" Rate="2.017" />
+			<Value SlotType="0" ForceEffectIndex="155" ForceValue="3" ForceValueType="1" Grade="3" Tier="43" Rate="0.2" />
+			<Value SlotType="0" ForceEffectIndex="155" ForceValue="5" ForceValueType="1" Grade="4" Tier="43" Rate="0.03" />
+			<Value SlotType="0" ForceEffectIndex="155" ForceValue="8" ForceValueType="1" Grade="5" Tier="43" Rate="0.003" />
+			<Value SlotType="0" ForceEffectIndex="189" ForceValue="1" ForceValueType="1" Grade="1" Tier="43" Rate="2.75" />
+			<Value SlotType="0" ForceEffectIndex="189" ForceValue="2" ForceValueType="1" Grade="2" Tier="43" Rate="2.017" />
+			<Value SlotType="0" ForceEffectIndex="189" ForceValue="3" ForceValueType="1" Grade="3" Tier="43" Rate="0.2" />
+			<Value SlotType="0" ForceEffectIndex="189" ForceValue="5" ForceValueType="1" Grade="4" Tier="43" Rate="0.03" />
+			<Value SlotType="0" ForceEffectIndex="189" ForceValue="8" ForceValueType="1" Grade="5" Tier="43" Rate="0.003" />
+		</Pool>
+		<Pool ID="1">
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="4" ForceValueType="1" Grade="1" Tier="74" Rate="1.5" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="8" ForceValueType="1" Grade="2" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="12" ForceValueType="1" Grade="3" Tier="74" Rate="4.5" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="16" ForceValueType="1" Grade="4" Tier="74" Rate="6" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="20" ForceValueType="1" Grade="5" Tier="74" Rate="4.5" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="24" ForceValueType="1" Grade="6" Tier="74" Rate="4.5" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="28" ForceValueType="1" Grade="7" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="36" ForceValueType="1" Grade="8" Tier="74" Rate="1.5" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="48" ForceValueType="1" Grade="9" Tier="74" Rate="0.9" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="64" ForceValueType="1" Grade="10" Tier="74" Rate="0.6" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="4" ForceValueType="1" Grade="1" Tier="74" Rate="1.5" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="8" ForceValueType="1" Grade="2" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="12" ForceValueType="1" Grade="3" Tier="74" Rate="4.5" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="16" ForceValueType="1" Grade="4" Tier="74" Rate="6" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="20" ForceValueType="1" Grade="5" Tier="74" Rate="4.5" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="24" ForceValueType="1" Grade="6" Tier="74" Rate="4.5" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="28" ForceValueType="1" Grade="7" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="36" ForceValueType="1" Grade="8" Tier="74" Rate="1.5" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="48" ForceValueType="1" Grade="9" Tier="74" Rate="0.9" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="64" ForceValueType="1" Grade="10" Tier="74" Rate="0.6" />
+			<Value SlotType="0" ForceEffectIndex="98" ForceValue="1" ForceValueType="2" Grade="1" Tier="61" Rate="19.6" />
+			<Value SlotType="0" ForceEffectIndex="98" ForceValue="2" ForceValueType="2" Grade="2" Tier="61" Rate="0.4" />
+			<Value SlotType="0" ForceEffectIndex="112" ForceValue="1" ForceValueType="2" Grade="1" Tier="51" Rate="14.85" />
+			<Value SlotType="0" ForceEffectIndex="112" ForceValue="2" ForceValueType="2" Grade="2" Tier="51" Rate="0.15" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="10" ForceValueType="1" Grade="1" Tier="43" Rate="2.75" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="15" ForceValueType="1" Grade="2" Tier="43" Rate="2.017" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="20" ForceValueType="1" Grade="3" Tier="43" Rate="0.2" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="25" ForceValueType="1" Grade="4" Tier="43" Rate="0.03" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="35" ForceValueType="1" Grade="5" Tier="43" Rate="0.003" />
+		</Pool>
+		<Pool ID="2">
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="3" ForceValueType="1" Grade="1" Tier="74" Rate="1.5" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="4" ForceValueType="1" Grade="2" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="5" ForceValueType="1" Grade="3" Tier="74" Rate="4.5" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="6" ForceValueType="1" Grade="4" Tier="74" Rate="6" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="7" ForceValueType="1" Grade="5" Tier="74" Rate="4.5" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="8" ForceValueType="1" Grade="6" Tier="74" Rate="4.5" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="9" ForceValueType="1" Grade="7" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="11" ForceValueType="1" Grade="8" Tier="74" Rate="1.5" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="14" ForceValueType="1" Grade="9" Tier="74" Rate="0.9" />
+			<Value SlotType="0" ForceEffectIndex="211" ForceValue="18" ForceValueType="1" Grade="10" Tier="74" Rate="0.6" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="3" ForceValueType="1" Grade="1" Tier="74" Rate="1.5" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="4" ForceValueType="1" Grade="2" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="5" ForceValueType="1" Grade="3" Tier="74" Rate="4.5" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="6" ForceValueType="1" Grade="4" Tier="74" Rate="6" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="7" ForceValueType="1" Grade="5" Tier="74" Rate="4.5" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="8" ForceValueType="1" Grade="6" Tier="74" Rate="4.5" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="9" ForceValueType="1" Grade="7" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="11" ForceValueType="1" Grade="8" Tier="74" Rate="1.5" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="14" ForceValueType="1" Grade="9" Tier="74" Rate="0.9" />
+			<Value SlotType="0" ForceEffectIndex="210" ForceValue="18" ForceValueType="1" Grade="10" Tier="74" Rate="0.6" />
+			<Value SlotType="0" ForceEffectIndex="98" ForceValue="2" ForceValueType="2" Grade="1" Tier="61" Rate="19.6" />
+			<Value SlotType="0" ForceEffectIndex="98" ForceValue="3" ForceValueType="2" Grade="2" Tier="61" Rate="0.4" />
+			<Value SlotType="0" ForceEffectIndex="112" ForceValue="2" ForceValueType="2" Grade="1" Tier="51" Rate="14.85" />
+			<Value SlotType="0" ForceEffectIndex="112" ForceValue="3" ForceValueType="2" Grade="2" Tier="51" Rate="0.15" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="20" ForceValueType="1" Grade="1" Tier="43" Rate="2.75" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="25" ForceValueType="1" Grade="2" Tier="43" Rate="2.017" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="30" ForceValueType="1" Grade="3" Tier="43" Rate="0.2" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="35" ForceValueType="1" Grade="4" Tier="43" Rate="0.03" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="5" Tier="43" Rate="0.003" />
+		</Pool>
+		<Pool ID="3">
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="12" ForceValueType="1" Grade="1" Tier="74" Rate="1" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="16" ForceValueType="1" Grade="2" Tier="74" Rate="2" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="20" ForceValueType="1" Grade="3" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="24" ForceValueType="1" Grade="4" Tier="74" Rate="4" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="28" ForceValueType="1" Grade="5" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="32" ForceValueType="1" Grade="6" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="36" ForceValueType="1" Grade="7" Tier="74" Rate="2" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="44" ForceValueType="1" Grade="8" Tier="74" Rate="1" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="56" ForceValueType="1" Grade="9" Tier="74" Rate="0.6" />
+			<Value SlotType="0" ForceEffectIndex="190" ForceValue="72" ForceValueType="1" Grade="10" Tier="74" Rate="0.4" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="12" ForceValueType="1" Grade="1" Tier="74" Rate="1" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="16" ForceValueType="1" Grade="2" Tier="74" Rate="2" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="20" ForceValueType="1" Grade="3" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="24" ForceValueType="1" Grade="4" Tier="74" Rate="4" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="28" ForceValueType="1" Grade="5" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="32" ForceValueType="1" Grade="6" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="36" ForceValueType="1" Grade="7" Tier="74" Rate="2" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="44" ForceValueType="1" Grade="8" Tier="74" Rate="1" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="56" ForceValueType="1" Grade="9" Tier="74" Rate="0.6" />
+			<Value SlotType="0" ForceEffectIndex="191" ForceValue="72" ForceValueType="1" Grade="10" Tier="74" Rate="0.4" />
+			<Value SlotType="0" ForceEffectIndex="204" ForceValue="5" ForceValueType="1" Grade="1" Tier="63" Rate="3.75" />
+			<Value SlotType="0" ForceEffectIndex="204" ForceValue="6" ForceValueType="1" Grade="2" Tier="63" Rate="6.45" />
+			<Value SlotType="0" ForceEffectIndex="204" ForceValue="7" ForceValueType="1" Grade="3" Tier="63" Rate="3.75" />
+			<Value SlotType="0" ForceEffectIndex="204" ForceValue="9" ForceValueType="1" Grade="4" Tier="63" Rate="0.75" />
+			<Value SlotType="0" ForceEffectIndex="204" ForceValue="12" ForceValueType="1" Grade="5" Tier="63" Rate="0.3" />
+			<Value SlotType="0" ForceEffectIndex="205" ForceValue="5" ForceValueType="1" Grade="1" Tier="63" Rate="3.75" />
+			<Value SlotType="0" ForceEffectIndex="205" ForceValue="6" ForceValueType="1" Grade="2" Tier="63" Rate="6.45" />
+			<Value SlotType="0" ForceEffectIndex="205" ForceValue="7" ForceValueType="1" Grade="3" Tier="63" Rate="3.75" />
+			<Value SlotType="0" ForceEffectIndex="205" ForceValue="9" ForceValueType="1" Grade="4" Tier="63" Rate="0.75" />
+			<Value SlotType="0" ForceEffectIndex="205" ForceValue="12" ForceValueType="1" Grade="5" Tier="63" Rate="0.3" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="25" ForceValueType="1" Grade="1" Tier="53" Rate="10" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="30" ForceValueType="1" Grade="2" Tier="53" Rate="8.18" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="35" ForceValueType="1" Grade="3" Tier="53" Rate="1.6" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="4" Tier="53" Rate="0.2" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="45" ForceValueType="1" Grade="5" Tier="53" Rate="0.02" />
+			<Value SlotType="0" ForceEffectIndex="155" ForceValue="5" ForceValueType="1" Grade="1" Tier="43" Rate="2.75" />
+			<Value SlotType="0" ForceEffectIndex="155" ForceValue="6" ForceValueType="1" Grade="2" Tier="43" Rate="2.017" />
+			<Value SlotType="0" ForceEffectIndex="155" ForceValue="7" ForceValueType="1" Grade="3" Tier="43" Rate="0.2" />
+			<Value SlotType="0" ForceEffectIndex="155" ForceValue="9" ForceValueType="1" Grade="4" Tier="43" Rate="0.03" />
+			<Value SlotType="0" ForceEffectIndex="155" ForceValue="12" ForceValueType="1" Grade="5" Tier="43" Rate="0.003" />
+			<Value SlotType="0" ForceEffectIndex="189" ForceValue="5" ForceValueType="1" Grade="1" Tier="43" Rate="2.75" />
+			<Value SlotType="0" ForceEffectIndex="189" ForceValue="6" ForceValueType="1" Grade="2" Tier="43" Rate="2.017" />
+			<Value SlotType="0" ForceEffectIndex="189" ForceValue="7" ForceValueType="1" Grade="3" Tier="43" Rate="0.2" />
+			<Value SlotType="0" ForceEffectIndex="189" ForceValue="9" ForceValueType="1" Grade="4" Tier="43" Rate="0.03" />
+			<Value SlotType="0" ForceEffectIndex="189" ForceValue="12" ForceValueType="1" Grade="5" Tier="43" Rate="0.003" />
+		</Pool>
+		<Pool ID="4">
+			<Value SlotType="0" ForceEffectIndex="192" ForceValue="4" ForceValueType="1" Grade="1" Tier="74" Rate="1" />
+			<Value SlotType="0" ForceEffectIndex="192" ForceValue="8" ForceValueType="1" Grade="2" Tier="74" Rate="2" />
+			<Value SlotType="0" ForceEffectIndex="192" ForceValue="12" ForceValueType="1" Grade="3" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="192" ForceValue="16" ForceValueType="1" Grade="4" Tier="74" Rate="4" />
+			<Value SlotType="0" ForceEffectIndex="192" ForceValue="20" ForceValueType="1" Grade="5" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="192" ForceValue="24" ForceValueType="1" Grade="6" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="192" ForceValue="28" ForceValueType="1" Grade="7" Tier="74" Rate="2" />
+			<Value SlotType="0" ForceEffectIndex="192" ForceValue="36" ForceValueType="1" Grade="8" Tier="74" Rate="1" />
+			<Value SlotType="0" ForceEffectIndex="192" ForceValue="48" ForceValueType="1" Grade="9" Tier="74" Rate="0.6" />
+			<Value SlotType="0" ForceEffectIndex="192" ForceValue="64" ForceValueType="1" Grade="10" Tier="74" Rate="0.4" />
+			<Value SlotType="0" ForceEffectIndex="193" ForceValue="4" ForceValueType="1" Grade="1" Tier="74" Rate="1" />
+			<Value SlotType="0" ForceEffectIndex="193" ForceValue="8" ForceValueType="1" Grade="2" Tier="74" Rate="2" />
+			<Value SlotType="0" ForceEffectIndex="193" ForceValue="12" ForceValueType="1" Grade="3" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="193" ForceValue="16" ForceValueType="1" Grade="4" Tier="74" Rate="4" />
+			<Value SlotType="0" ForceEffectIndex="193" ForceValue="20" ForceValueType="1" Grade="5" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="193" ForceValue="24" ForceValueType="1" Grade="6" Tier="74" Rate="3" />
+			<Value SlotType="0" ForceEffectIndex="193" ForceValue="28" ForceValueType="1" Grade="7" Tier="74" Rate="2" />
+			<Value SlotType="0" ForceEffectIndex="193" ForceValue="36" ForceValueType="1" Grade="8" Tier="74" Rate="1" />
+			<Value SlotType="0" ForceEffectIndex="193" ForceValue="48" ForceValueType="1" Grade="9" Tier="74" Rate="0.6" />
+			<Value SlotType="0" ForceEffectIndex="193" ForceValue="64" ForceValueType="1" Grade="10" Tier="74" Rate="0.4" />
+			<Value SlotType="0" ForceEffectIndex="204" ForceValue="7" ForceValueType="1" Grade="1" Tier="63" Rate="3.75" />
+			<Value SlotType="0" ForceEffectIndex="204" ForceValue="8" ForceValueType="1" Grade="2" Tier="63" Rate="6.45" />
+			<Value SlotType="0" ForceEffectIndex="204" ForceValue="9" ForceValueType="1" Grade="3" Tier="63" Rate="3.75" />
+			<Value SlotType="0" ForceEffectIndex="204" ForceValue="11" ForceValueType="1" Grade="4" Tier="63" Rate="0.75" />
+			<Value SlotType="0" ForceEffectIndex="204" ForceValue="14" ForceValueType="1" Grade="5" Tier="63" Rate="0.3" />
+			<Value SlotType="0" ForceEffectIndex="205" ForceValue="7" ForceValueType="1" Grade="1" Tier="63" Rate="3.75" />
+			<Value SlotType="0" ForceEffectIndex="205" ForceValue="8" ForceValueType="1" Grade="2" Tier="63" Rate="6.45" />
+			<Value SlotType="0" ForceEffectIndex="205" ForceValue="9" ForceValueType="1" Grade="3" Tier="63" Rate="3.75" />
+			<Value SlotType="0" ForceEffectIndex="205" ForceValue="11" ForceValueType="1" Grade="4" Tier="63" Rate="0.75" />
+			<Value SlotType="0" ForceEffectIndex="205" ForceValue="14" ForceValueType="1" Grade="5" Tier="63" Rate="0.3" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="25" ForceValueType="1" Grade="1" Tier="53" Rate="10" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="30" ForceValueType="1" Grade="2" Tier="53" Rate="8.18" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="35" ForceValueType="1" Grade="3" Tier="53" Rate="1.6" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="4" Tier="53" Rate="0.2" />
+			<Value SlotType="0" ForceEffectIndex="1" ForceValue="50" ForceValueType="1" Grade="5" Tier="53" Rate="0.02" />
+			<Value SlotType="0" ForceEffectIndex="157" ForceValue="5" ForceValueType="1" Grade="1" Tier="43" Rate="2.75" />
+			<Value SlotType="0" ForceEffectIndex="157" ForceValue="7" ForceValueType="1" Grade="2" Tier="43" Rate="2.017" />
+			<Value SlotType="0" ForceEffectIndex="157" ForceValue="9" ForceValueType="1" Grade="3" Tier="43" Rate="0.2" />
+			<Value SlotType="0" ForceEffectIndex="157" ForceValue="12" ForceValueType="1" Grade="4" Tier="43" Rate="0.03" />
+			<Value SlotType="0" ForceEffectIndex="157" ForceValue="16" ForceValueType="1" Grade="5" Tier="43" Rate="0.003" />
+			<Value SlotType="0" ForceEffectIndex="195" ForceValue="5" ForceValueType="1" Grade="1" Tier="43" Rate="2.75" />
+			<Value SlotType="0" ForceEffectIndex="195" ForceValue="7" ForceValueType="1" Grade="2" Tier="43" Rate="2.017" />
+			<Value SlotType="0" ForceEffectIndex="195" ForceValue="9" ForceValueType="1" Grade="3" Tier="43" Rate="0.2" />
+			<Value SlotType="0" ForceEffectIndex="195" ForceValue="12" ForceValueType="1" Grade="4" Tier="43" Rate="0.03" />
+			<Value SlotType="0" ForceEffectIndex="195" ForceValue="16" ForceValueType="1" Grade="5" Tier="43" Rate="0.003" />
+		</Pool>
+		<Pool ID="5">
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="2" ForceValueType="1" Grade="1" Tier="54" Rate="1" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="3" ForceValueType="1" Grade="2" Tier="54" Rate="2" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="4" ForceValueType="1" Grade="3" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="5" ForceValueType="1" Grade="4" Tier="54" Rate="4" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="6" ForceValueType="1" Grade="5" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="7" ForceValueType="1" Grade="6" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="8" ForceValueType="1" Grade="7" Tier="54" Rate="2" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="11" ForceValueType="1" Grade="8" Tier="54" Rate="1" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="15" ForceValueType="1" Grade="9" Tier="54" Rate="0.6" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="21" ForceValueType="1" Grade="10" Tier="54" Rate="0.4" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="2" ForceValueType="1" Grade="1" Tier="54" Rate="1" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="3" ForceValueType="1" Grade="2" Tier="54" Rate="2" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="4" ForceValueType="1" Grade="3" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="5" ForceValueType="1" Grade="4" Tier="54" Rate="4" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="6" ForceValueType="1" Grade="5" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="7" ForceValueType="1" Grade="6" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="8" ForceValueType="1" Grade="7" Tier="54" Rate="2" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="11" ForceValueType="1" Grade="8" Tier="54" Rate="1" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="15" ForceValueType="1" Grade="9" Tier="54" Rate="0.6" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="21" ForceValueType="1" Grade="10" Tier="54" Rate="0.4" />
+			<Value SlotType="1" ForceEffectIndex="204" ForceValue="4" ForceValueType="1" Grade="1" Tier="43" Rate="3.75" />
+			<Value SlotType="1" ForceEffectIndex="204" ForceValue="5" ForceValueType="1" Grade="2" Tier="43" Rate="6.45" />
+			<Value SlotType="1" ForceEffectIndex="204" ForceValue="6" ForceValueType="1" Grade="3" Tier="43" Rate="3.75" />
+			<Value SlotType="1" ForceEffectIndex="204" ForceValue="8" ForceValueType="1" Grade="4" Tier="43" Rate="0.75" />
+			<Value SlotType="1" ForceEffectIndex="204" ForceValue="11" ForceValueType="1" Grade="5" Tier="43" Rate="0.3" />
+			<Value SlotType="1" ForceEffectIndex="205" ForceValue="4" ForceValueType="1" Grade="1" Tier="43" Rate="3.75" />
+			<Value SlotType="1" ForceEffectIndex="205" ForceValue="5" ForceValueType="1" Grade="2" Tier="43" Rate="6.45" />
+			<Value SlotType="1" ForceEffectIndex="205" ForceValue="6" ForceValueType="1" Grade="3" Tier="43" Rate="3.75" />
+			<Value SlotType="1" ForceEffectIndex="205" ForceValue="8" ForceValueType="1" Grade="4" Tier="43" Rate="0.75" />
+			<Value SlotType="1" ForceEffectIndex="205" ForceValue="11" ForceValueType="1" Grade="5" Tier="43" Rate="0.3" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="25" ForceValueType="1" Grade="1" Tier="33" Rate="10" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="30" ForceValueType="1" Grade="2" Tier="33" Rate="8.18" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="35" ForceValueType="1" Grade="3" Tier="33" Rate="1.6" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="4" Tier="33" Rate="0.2" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="45" ForceValueType="1" Grade="5" Tier="33" Rate="0.02" />
+			<Value SlotType="1" ForceEffectIndex="155" ForceValue="2" ForceValueType="1" Grade="1" Tier="23" Rate="2.75" />
+			<Value SlotType="1" ForceEffectIndex="155" ForceValue="3" ForceValueType="1" Grade="2" Tier="23" Rate="2.017" />
+			<Value SlotType="1" ForceEffectIndex="155" ForceValue="5" ForceValueType="1" Grade="3" Tier="23" Rate="0.2" />
+			<Value SlotType="1" ForceEffectIndex="155" ForceValue="8" ForceValueType="1" Grade="4" Tier="23" Rate="0.03" />
+			<Value SlotType="1" ForceEffectIndex="155" ForceValue="11" ForceValueType="1" Grade="5" Tier="23" Rate="0.003" />
+			<Value SlotType="1" ForceEffectIndex="189" ForceValue="2" ForceValueType="1" Grade="1" Tier="23" Rate="2.75" />
+			<Value SlotType="1" ForceEffectIndex="189" ForceValue="3" ForceValueType="1" Grade="2" Tier="23" Rate="2.017" />
+			<Value SlotType="1" ForceEffectIndex="189" ForceValue="5" ForceValueType="1" Grade="3" Tier="23" Rate="0.2" />
+			<Value SlotType="1" ForceEffectIndex="189" ForceValue="8" ForceValueType="1" Grade="4" Tier="23" Rate="0.03" />
+			<Value SlotType="1" ForceEffectIndex="189" ForceValue="11" ForceValueType="1" Grade="5" Tier="23" Rate="0.003" />
+		</Pool>
+		<Pool ID="6">
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="8" ForceValueType="1" Grade="1" Tier="54" Rate="1.5" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="12" ForceValueType="1" Grade="2" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="16" ForceValueType="1" Grade="3" Tier="54" Rate="4.5" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="20" ForceValueType="1" Grade="4" Tier="54" Rate="6" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="24" ForceValueType="1" Grade="5" Tier="54" Rate="4.5" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="28" ForceValueType="1" Grade="6" Tier="54" Rate="4.5" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="32" ForceValueType="1" Grade="7" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="44" ForceValueType="1" Grade="8" Tier="54" Rate="1.5" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="60" ForceValueType="1" Grade="9" Tier="54" Rate="0.9" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="84" ForceValueType="1" Grade="10" Tier="54" Rate="0.6" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="8" ForceValueType="1" Grade="1" Tier="54" Rate="1.5" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="12" ForceValueType="1" Grade="2" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="16" ForceValueType="1" Grade="3" Tier="54" Rate="4.5" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="20" ForceValueType="1" Grade="4" Tier="54" Rate="6" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="24" ForceValueType="1" Grade="5" Tier="54" Rate="4.5" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="28" ForceValueType="1" Grade="6" Tier="54" Rate="4.5" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="32" ForceValueType="1" Grade="7" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="44" ForceValueType="1" Grade="8" Tier="54" Rate="1.5" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="60" ForceValueType="1" Grade="9" Tier="54" Rate="0.9" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="84" ForceValueType="1" Grade="10" Tier="54" Rate="0.6" />
+			<Value SlotType="1" ForceEffectIndex="98" ForceValue="2" ForceValueType="2" Grade="1" Tier="41" Rate="19.6" />
+			<Value SlotType="1" ForceEffectIndex="98" ForceValue="3" ForceValueType="2" Grade="2" Tier="41" Rate="0.4" />
+			<Value SlotType="1" ForceEffectIndex="112" ForceValue="2" ForceValueType="2" Grade="1" Tier="31" Rate="14.85" />
+			<Value SlotType="1" ForceEffectIndex="112" ForceValue="3" ForceValueType="2" Grade="2" Tier="31" Rate="0.15" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="25" ForceValueType="1" Grade="1" Tier="23" Rate="2.75" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="30" ForceValueType="1" Grade="2" Tier="23" Rate="2.017" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="35" ForceValueType="1" Grade="3" Tier="23" Rate="0.2" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="4" Tier="23" Rate="0.03" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="50" ForceValueType="1" Grade="5" Tier="23" Rate="0.003" />
+		</Pool>
+		<Pool ID="7">
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="4" ForceValueType="1" Grade="1" Tier="54" Rate="1.5" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="5" ForceValueType="1" Grade="2" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="6" ForceValueType="1" Grade="3" Tier="54" Rate="4.5" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="7" ForceValueType="1" Grade="4" Tier="54" Rate="6" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="8" ForceValueType="1" Grade="5" Tier="54" Rate="4.5" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="9" ForceValueType="1" Grade="6" Tier="54" Rate="4.5" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="10" ForceValueType="1" Grade="7" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="13" ForceValueType="1" Grade="8" Tier="54" Rate="1.5" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="17" ForceValueType="1" Grade="9" Tier="54" Rate="0.9" />
+			<Value SlotType="1" ForceEffectIndex="211" ForceValue="24" ForceValueType="1" Grade="10" Tier="54" Rate="0.6" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="4" ForceValueType="1" Grade="1" Tier="54" Rate="1.5" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="5" ForceValueType="1" Grade="2" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="6" ForceValueType="1" Grade="3" Tier="54" Rate="4.5" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="7" ForceValueType="1" Grade="4" Tier="54" Rate="6" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="8" ForceValueType="1" Grade="5" Tier="54" Rate="4.5" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="9" ForceValueType="1" Grade="6" Tier="54" Rate="4.5" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="10" ForceValueType="1" Grade="7" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="13" ForceValueType="1" Grade="8" Tier="54" Rate="1.5" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="17" ForceValueType="1" Grade="9" Tier="54" Rate="0.9" />
+			<Value SlotType="1" ForceEffectIndex="210" ForceValue="24" ForceValueType="1" Grade="10" Tier="54" Rate="0.6" />
+			<Value SlotType="1" ForceEffectIndex="98" ForceValue="3" ForceValueType="2" Grade="1" Tier="41" Rate="19.6" />
+			<Value SlotType="1" ForceEffectIndex="98" ForceValue="4" ForceValueType="2" Grade="2" Tier="41" Rate="0.4" />
+			<Value SlotType="1" ForceEffectIndex="112" ForceValue="3" ForceValueType="2" Grade="1" Tier="31" Rate="14.85" />
+			<Value SlotType="1" ForceEffectIndex="112" ForceValue="4" ForceValueType="2" Grade="2" Tier="31" Rate="0.15" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="30" ForceValueType="1" Grade="1" Tier="23" Rate="2.75" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="35" ForceValueType="1" Grade="2" Tier="23" Rate="2.017" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="3" Tier="23" Rate="0.2" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="45" ForceValueType="1" Grade="4" Tier="23" Rate="0.03" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="55" ForceValueType="1" Grade="5" Tier="23" Rate="0.003" />
+		</Pool>
+		<Pool ID="8">
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="16" ForceValueType="1" Grade="1" Tier="54" Rate="1" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="21" ForceValueType="1" Grade="2" Tier="54" Rate="2" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="26" ForceValueType="1" Grade="3" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="32" ForceValueType="1" Grade="4" Tier="54" Rate="4" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="37" ForceValueType="1" Grade="5" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="42" ForceValueType="1" Grade="6" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="47" ForceValueType="1" Grade="7" Tier="54" Rate="2" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="58" ForceValueType="1" Grade="8" Tier="54" Rate="1" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="73" ForceValueType="1" Grade="9" Tier="54" Rate="0.6" />
+			<Value SlotType="1" ForceEffectIndex="190" ForceValue="94" ForceValueType="1" Grade="10" Tier="54" Rate="0.4" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="16" ForceValueType="1" Grade="1" Tier="54" Rate="1" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="21" ForceValueType="1" Grade="2" Tier="54" Rate="2" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="26" ForceValueType="1" Grade="3" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="32" ForceValueType="1" Grade="4" Tier="54" Rate="4" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="37" ForceValueType="1" Grade="5" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="42" ForceValueType="1" Grade="6" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="47" ForceValueType="1" Grade="7" Tier="54" Rate="2" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="58" ForceValueType="1" Grade="8" Tier="54" Rate="1" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="73" ForceValueType="1" Grade="9" Tier="54" Rate="0.6" />
+			<Value SlotType="1" ForceEffectIndex="191" ForceValue="94" ForceValueType="1" Grade="10" Tier="54" Rate="0.4" />
+			<Value SlotType="1" ForceEffectIndex="204" ForceValue="7" ForceValueType="1" Grade="1" Tier="43" Rate="3.75" />
+			<Value SlotType="1" ForceEffectIndex="204" ForceValue="8" ForceValueType="1" Grade="2" Tier="43" Rate="6.45" />
+			<Value SlotType="1" ForceEffectIndex="204" ForceValue="10" ForceValueType="1" Grade="3" Tier="43" Rate="3.75" />
+			<Value SlotType="1" ForceEffectIndex="204" ForceValue="13" ForceValueType="1" Grade="4" Tier="43" Rate="0.75" />
+			<Value SlotType="1" ForceEffectIndex="204" ForceValue="16" ForceValueType="1" Grade="5" Tier="43" Rate="0.3" />
+			<Value SlotType="1" ForceEffectIndex="205" ForceValue="7" ForceValueType="1" Grade="1" Tier="43" Rate="3.75" />
+			<Value SlotType="1" ForceEffectIndex="205" ForceValue="8" ForceValueType="1" Grade="2" Tier="43" Rate="6.45" />
+			<Value SlotType="1" ForceEffectIndex="205" ForceValue="10" ForceValueType="1" Grade="3" Tier="43" Rate="3.75" />
+			<Value SlotType="1" ForceEffectIndex="205" ForceValue="13" ForceValueType="1" Grade="4" Tier="43" Rate="0.75" />
+			<Value SlotType="1" ForceEffectIndex="205" ForceValue="16" ForceValueType="1" Grade="5" Tier="43" Rate="0.3" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="35" ForceValueType="1" Grade="1" Tier="33" Rate="10" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="2" Tier="33" Rate="8.18" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="45" ForceValueType="1" Grade="3" Tier="33" Rate="1.6" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="50" ForceValueType="1" Grade="4" Tier="33" Rate="0.2" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="60" ForceValueType="1" Grade="5" Tier="33" Rate="0.02" />
+			<Value SlotType="1" ForceEffectIndex="155" ForceValue="9" ForceValueType="1" Grade="1" Tier="23" Rate="2.75" />
+			<Value SlotType="1" ForceEffectIndex="155" ForceValue="10" ForceValueType="1" Grade="2" Tier="23" Rate="2.017" />
+			<Value SlotType="1" ForceEffectIndex="155" ForceValue="11" ForceValueType="1" Grade="3" Tier="23" Rate="0.2" />
+			<Value SlotType="1" ForceEffectIndex="155" ForceValue="13" ForceValueType="1" Grade="4" Tier="23" Rate="0.03" />
+			<Value SlotType="1" ForceEffectIndex="155" ForceValue="16" ForceValueType="1" Grade="5" Tier="23" Rate="0.003" />
+			<Value SlotType="1" ForceEffectIndex="189" ForceValue="9" ForceValueType="1" Grade="1" Tier="23" Rate="2.75" />
+			<Value SlotType="1" ForceEffectIndex="189" ForceValue="10" ForceValueType="1" Grade="2" Tier="23" Rate="2.017" />
+			<Value SlotType="1" ForceEffectIndex="189" ForceValue="11" ForceValueType="1" Grade="3" Tier="23" Rate="0.2" />
+			<Value SlotType="1" ForceEffectIndex="189" ForceValue="13" ForceValueType="1" Grade="4" Tier="23" Rate="0.03" />
+			<Value SlotType="1" ForceEffectIndex="189" ForceValue="16" ForceValueType="1" Grade="5" Tier="23" Rate="0.003" />
+		</Pool>
+		<Pool ID="9">
+			<Value SlotType="1" ForceEffectIndex="192" ForceValue="8" ForceValueType="1" Grade="1" Tier="54" Rate="1" />
+			<Value SlotType="1" ForceEffectIndex="192" ForceValue="12" ForceValueType="1" Grade="2" Tier="54" Rate="2" />
+			<Value SlotType="1" ForceEffectIndex="192" ForceValue="16" ForceValueType="1" Grade="3" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="192" ForceValue="20" ForceValueType="1" Grade="4" Tier="54" Rate="4" />
+			<Value SlotType="1" ForceEffectIndex="192" ForceValue="24" ForceValueType="1" Grade="5" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="192" ForceValue="28" ForceValueType="1" Grade="6" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="192" ForceValue="32" ForceValueType="1" Grade="7" Tier="54" Rate="2" />
+			<Value SlotType="1" ForceEffectIndex="192" ForceValue="44" ForceValueType="1" Grade="8" Tier="54" Rate="1" />
+			<Value SlotType="1" ForceEffectIndex="192" ForceValue="60" ForceValueType="1" Grade="9" Tier="54" Rate="0.6" />
+			<Value SlotType="1" ForceEffectIndex="192" ForceValue="84" ForceValueType="1" Grade="10" Tier="54" Rate="0.4" />
+			<Value SlotType="1" ForceEffectIndex="193" ForceValue="8" ForceValueType="1" Grade="1" Tier="54" Rate="1" />
+			<Value SlotType="1" ForceEffectIndex="193" ForceValue="12" ForceValueType="1" Grade="2" Tier="54" Rate="2" />
+			<Value SlotType="1" ForceEffectIndex="193" ForceValue="16" ForceValueType="1" Grade="3" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="193" ForceValue="20" ForceValueType="1" Grade="4" Tier="54" Rate="4" />
+			<Value SlotType="1" ForceEffectIndex="193" ForceValue="24" ForceValueType="1" Grade="5" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="193" ForceValue="28" ForceValueType="1" Grade="6" Tier="54" Rate="3" />
+			<Value SlotType="1" ForceEffectIndex="193" ForceValue="32" ForceValueType="1" Grade="7" Tier="54" Rate="2" />
+			<Value SlotType="1" ForceEffectIndex="193" ForceValue="44" ForceValueType="1" Grade="8" Tier="54" Rate="1" />
+			<Value SlotType="1" ForceEffectIndex="193" ForceValue="60" ForceValueType="1" Grade="9" Tier="54" Rate="0.6" />
+			<Value SlotType="1" ForceEffectIndex="193" ForceValue="84" ForceValueType="1" Grade="10" Tier="54" Rate="0.4" />
+			<Value SlotType="1" ForceEffectIndex="204" ForceValue="10" ForceValueType="1" Grade="1" Tier="43" Rate="3.75" />
+			<Value SlotType="1" ForceEffectIndex="204" ForceValue="11" ForceValueType="1" Grade="2" Tier="43" Rate="6.45" />
+			<Value SlotType="1" ForceEffectIndex="204" ForceValue="13" ForceValueType="1" Grade="3" Tier="43" Rate="3.75" />
+			<Value SlotType="1" ForceEffectIndex="204" ForceValue="16" ForceValueType="1" Grade="4" Tier="43" Rate="0.75" />
+			<Value SlotType="1" ForceEffectIndex="204" ForceValue="19" ForceValueType="1" Grade="5" Tier="43" Rate="0.3" />
+			<Value SlotType="1" ForceEffectIndex="205" ForceValue="10" ForceValueType="1" Grade="1" Tier="43" Rate="3.75" />
+			<Value SlotType="1" ForceEffectIndex="205" ForceValue="11" ForceValueType="1" Grade="2" Tier="43" Rate="6.45" />
+			<Value SlotType="1" ForceEffectIndex="205" ForceValue="13" ForceValueType="1" Grade="3" Tier="43" Rate="3.75" />
+			<Value SlotType="1" ForceEffectIndex="205" ForceValue="16" ForceValueType="1" Grade="4" Tier="43" Rate="0.75" />
+			<Value SlotType="1" ForceEffectIndex="205" ForceValue="19" ForceValueType="1" Grade="5" Tier="43" Rate="0.3" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="1" Tier="33" Rate="10" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="45" ForceValueType="1" Grade="2" Tier="33" Rate="8.18" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="50" ForceValueType="1" Grade="3" Tier="33" Rate="1.6" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="55" ForceValueType="1" Grade="4" Tier="33" Rate="0.2" />
+			<Value SlotType="1" ForceEffectIndex="1" ForceValue="65" ForceValueType="1" Grade="5" Tier="33" Rate="0.02" />
+			<Value SlotType="1" ForceEffectIndex="157" ForceValue="12" ForceValueType="1" Grade="1" Tier="23" Rate="2.75" />
+			<Value SlotType="1" ForceEffectIndex="157" ForceValue="13" ForceValueType="1" Grade="2" Tier="23" Rate="2.017" />
+			<Value SlotType="1" ForceEffectIndex="157" ForceValue="15" ForceValueType="1" Grade="3" Tier="23" Rate="0.2" />
+			<Value SlotType="1" ForceEffectIndex="157" ForceValue="18" ForceValueType="1" Grade="4" Tier="23" Rate="0.03" />
+			<Value SlotType="1" ForceEffectIndex="157" ForceValue="21" ForceValueType="1" Grade="5" Tier="23" Rate="0.003" />
+			<Value SlotType="1" ForceEffectIndex="195" ForceValue="12" ForceValueType="1" Grade="1" Tier="23" Rate="2.75" />
+			<Value SlotType="1" ForceEffectIndex="195" ForceValue="13" ForceValueType="1" Grade="2" Tier="23" Rate="2.017" />
+			<Value SlotType="1" ForceEffectIndex="195" ForceValue="15" ForceValueType="1" Grade="3" Tier="23" Rate="0.2" />
+			<Value SlotType="1" ForceEffectIndex="195" ForceValue="18" ForceValueType="1" Grade="4" Tier="23" Rate="0.03" />
+			<Value SlotType="1" ForceEffectIndex="195" ForceValue="21" ForceValueType="1" Grade="5" Tier="23" Rate="0.003" />
+		</Pool>
+		<Pool ID="10">
+			<Value SlotType="2" ForceEffectIndex="194" ForceValue="5" ForceValueType="1" Grade="1" Tier="33" Rate="8.75" />
+			<Value SlotType="2" ForceEffectIndex="194" ForceValue="10" ForceValueType="1" Grade="2" Tier="33" Rate="14.14" />
+			<Value SlotType="2" ForceEffectIndex="194" ForceValue="15" ForceValueType="1" Grade="3" Tier="33" Rate="2" />
+			<Value SlotType="2" ForceEffectIndex="194" ForceValue="20" ForceValueType="1" Grade="4" Tier="33" Rate="0.1" />
+			<Value SlotType="2" ForceEffectIndex="194" ForceValue="30" ForceValueType="1" Grade="5" Tier="33" Rate="0.01" />
+			<Value SlotType="2" ForceEffectIndex="156" ForceValue="5" ForceValueType="1" Grade="1" Tier="33" Rate="8.75" />
+			<Value SlotType="2" ForceEffectIndex="156" ForceValue="10" ForceValueType="1" Grade="2" Tier="33" Rate="14.14" />
+			<Value SlotType="2" ForceEffectIndex="156" ForceValue="15" ForceValueType="1" Grade="3" Tier="33" Rate="2" />
+			<Value SlotType="2" ForceEffectIndex="156" ForceValue="20" ForceValueType="1" Grade="4" Tier="33" Rate="0.1" />
+			<Value SlotType="2" ForceEffectIndex="156" ForceValue="30" ForceValueType="1" Grade="5" Tier="33" Rate="0.01" />
+			<Value SlotType="2" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="1" Tier="23" Rate="7.4" />
+			<Value SlotType="2" ForceEffectIndex="1" ForceValue="80" ForceValueType="1" Grade="2" Tier="23" Rate="11.498" />
+			<Value SlotType="2" ForceEffectIndex="1" ForceValue="120" ForceValueType="1" Grade="3" Tier="23" Rate="1" />
+			<Value SlotType="2" ForceEffectIndex="1" ForceValue="180" ForceValueType="1" Grade="4" Tier="23" Rate="0.1" />
+			<Value SlotType="2" ForceEffectIndex="1" ForceValue="300" ForceValueType="1" Grade="5" Tier="23" Rate="0.002" />
+			<Value SlotType="2" ForceEffectIndex="155" ForceValue="15" ForceValueType="1" Grade="1" Tier="23" Rate="5.749" />
+			<Value SlotType="2" ForceEffectIndex="155" ForceValue="25" ForceValueType="1" Grade="2" Tier="23" Rate="3.699" />
+			<Value SlotType="2" ForceEffectIndex="155" ForceValue="30" ForceValueType="1" Grade="3" Tier="23" Rate="0.5" />
+			<Value SlotType="2" ForceEffectIndex="155" ForceValue="50" ForceValueType="1" Grade="4" Tier="23" Rate="0.05" />
+			<Value SlotType="2" ForceEffectIndex="155" ForceValue="100" ForceValueType="1" Grade="5" Tier="23" Rate="0.002" />
+			<Value SlotType="2" ForceEffectIndex="189" ForceValue="15" ForceValueType="1" Grade="1" Tier="23" Rate="5.749" />
+			<Value SlotType="2" ForceEffectIndex="189" ForceValue="25" ForceValueType="1" Grade="2" Tier="23" Rate="3.699" />
+			<Value SlotType="2" ForceEffectIndex="189" ForceValue="30" ForceValueType="1" Grade="3" Tier="23" Rate="0.5" />
+			<Value SlotType="2" ForceEffectIndex="189" ForceValue="50" ForceValueType="1" Grade="4" Tier="23" Rate="0.05" />
+			<Value SlotType="2" ForceEffectIndex="189" ForceValue="100" ForceValueType="1" Grade="5" Tier="23" Rate="0.002" />
+			<Value SlotType="2" ForceEffectIndex="157" ForceValue="10" ForceValueType="1" Grade="1" Tier="13" Rate="3" />
+			<Value SlotType="2" ForceEffectIndex="157" ForceValue="15" ForceValueType="1" Grade="2" Tier="13" Rate="1.889" />
+			<Value SlotType="2" ForceEffectIndex="157" ForceValue="20" ForceValueType="1" Grade="3" Tier="13" Rate="0.1" />
+			<Value SlotType="2" ForceEffectIndex="157" ForceValue="30" ForceValueType="1" Grade="4" Tier="13" Rate="0.01" />
+			<Value SlotType="2" ForceEffectIndex="157" ForceValue="60" ForceValueType="1" Grade="5" Tier="13" Rate="0.001" />
+			<Value SlotType="2" ForceEffectIndex="195" ForceValue="10" ForceValueType="1" Grade="1" Tier="13" Rate="3" />
+			<Value SlotType="2" ForceEffectIndex="195" ForceValue="15" ForceValueType="1" Grade="2" Tier="13" Rate="1.889" />
+			<Value SlotType="2" ForceEffectIndex="195" ForceValue="20" ForceValueType="1" Grade="3" Tier="13" Rate="0.1" />
+			<Value SlotType="2" ForceEffectIndex="195" ForceValue="30" ForceValueType="1" Grade="4" Tier="13" Rate="0.01" />
+			<Value SlotType="2" ForceEffectIndex="195" ForceValue="60" ForceValueType="1" Grade="5" Tier="13" Rate="0.001" />
+		</Pool>
+		<Pool ID="11">
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="1" ForceValueType="1" Grade="1" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="2" ForceValueType="1" Grade="2" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="3" ForceValueType="1" Grade="3" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="4" ForceValueType="1" Grade="4" Tier="74" Rate="4.6" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="5" ForceValueType="1" Grade="5" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="6" ForceValueType="1" Grade="6" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="7" ForceValueType="1" Grade="7" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="9" ForceValueType="1" Grade="8" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="12" ForceValueType="1" Grade="9" Tier="74" Rate="0.69" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="16" ForceValueType="1" Grade="10" Tier="74" Rate="0.46" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="1" ForceValueType="1" Grade="1" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="2" ForceValueType="1" Grade="2" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="3" ForceValueType="1" Grade="3" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="4" ForceValueType="1" Grade="4" Tier="74" Rate="4.6" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="5" ForceValueType="1" Grade="5" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="6" ForceValueType="1" Grade="6" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="7" ForceValueType="1" Grade="7" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="9" ForceValueType="1" Grade="8" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="12" ForceValueType="1" Grade="9" Tier="74" Rate="0.69" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="16" ForceValueType="1" Grade="10" Tier="74" Rate="0.46" />
+			<Value SlotType="3" ForceEffectIndex="216" ForceValue="1" ForceValueType="1" Grade="1" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="216" ForceValue="2" ForceValueType="1" Grade="2" Tier="63" Rate="7.74" />
+			<Value SlotType="3" ForceEffectIndex="216" ForceValue="3" ForceValueType="1" Grade="3" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="216" ForceValue="5" ForceValueType="1" Grade="4" Tier="63" Rate="0.9" />
+			<Value SlotType="3" ForceEffectIndex="216" ForceValue="8" ForceValueType="1" Grade="5" Tier="63" Rate="0.36" />
+			<Value SlotType="3" ForceEffectIndex="217" ForceValue="1" ForceValueType="1" Grade="1" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="217" ForceValue="2" ForceValueType="1" Grade="2" Tier="63" Rate="7.74" />
+			<Value SlotType="3" ForceEffectIndex="217" ForceValue="3" ForceValueType="1" Grade="3" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="217" ForceValue="5" ForceValueType="1" Grade="4" Tier="63" Rate="0.9" />
+			<Value SlotType="3" ForceEffectIndex="217" ForceValue="8" ForceValueType="1" Grade="5" Tier="63" Rate="0.36" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="1" ForceValueType="1" Grade="1" Tier="53" Rate="4.9" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="2" ForceValueType="1" Grade="2" Tier="53" Rate="1.463" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="3" ForceValueType="1" Grade="3" Tier="53" Rate="0.56" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="5" ForceValueType="1" Grade="4" Tier="53" Rate="0.07" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="8" ForceValueType="1" Grade="5" Tier="53" Rate="0.007" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="1" ForceValueType="1" Grade="1" Tier="53" Rate="4.9" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="2" ForceValueType="1" Grade="2" Tier="53" Rate="1.463" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="3" ForceValueType="1" Grade="3" Tier="53" Rate="0.56" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="5" ForceValueType="1" Grade="4" Tier="53" Rate="0.07" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="8" ForceValueType="1" Grade="5" Tier="53" Rate="0.007" />
+			<Value SlotType="3" ForceEffectIndex="208" ForceValue="3" ForceValueType="1" Grade="1" Tier="43" Rate="1.5" />
+			<Value SlotType="3" ForceEffectIndex="208" ForceValue="4" ForceValueType="1" Grade="2" Tier="43" Rate="0.409" />
+			<Value SlotType="3" ForceEffectIndex="208" ForceValue="5" ForceValueType="1" Grade="3" Tier="43" Rate="0.08" />
+			<Value SlotType="3" ForceEffectIndex="208" ForceValue="7" ForceValueType="1" Grade="4" Tier="43" Rate="0.01" />
+			<Value SlotType="3" ForceEffectIndex="208" ForceValue="10" ForceValueType="1" Grade="5" Tier="43" Rate="0.001" />
+			<Value SlotType="3" ForceEffectIndex="209" ForceValue="3" ForceValueType="1" Grade="1" Tier="43" Rate="1.5" />
+			<Value SlotType="3" ForceEffectIndex="209" ForceValue="4" ForceValueType="1" Grade="2" Tier="43" Rate="0.409" />
+			<Value SlotType="3" ForceEffectIndex="209" ForceValue="5" ForceValueType="1" Grade="3" Tier="43" Rate="0.08" />
+			<Value SlotType="3" ForceEffectIndex="209" ForceValue="7" ForceValueType="1" Grade="4" Tier="43" Rate="0.01" />
+			<Value SlotType="3" ForceEffectIndex="209" ForceValue="10" ForceValueType="1" Grade="5" Tier="43" Rate="0.001" />
+		</Pool>
+		<Pool ID="12">
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="4" ForceValueType="1" Grade="1" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="8" ForceValueType="1" Grade="2" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="12" ForceValueType="1" Grade="3" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="16" ForceValueType="1" Grade="4" Tier="74" Rate="4.6" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="20" ForceValueType="1" Grade="5" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="24" ForceValueType="1" Grade="6" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="28" ForceValueType="1" Grade="7" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="36" ForceValueType="1" Grade="8" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="48" ForceValueType="1" Grade="9" Tier="74" Rate="0.69" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="64" ForceValueType="1" Grade="10" Tier="74" Rate="0.46" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="4" ForceValueType="1" Grade="1" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="8" ForceValueType="1" Grade="2" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="12" ForceValueType="1" Grade="3" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="16" ForceValueType="1" Grade="4" Tier="74" Rate="4.6" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="20" ForceValueType="1" Grade="5" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="24" ForceValueType="1" Grade="6" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="28" ForceValueType="1" Grade="7" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="36" ForceValueType="1" Grade="8" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="48" ForceValueType="1" Grade="9" Tier="74" Rate="0.69" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="64" ForceValueType="1" Grade="10" Tier="74" Rate="0.46" />
+			<Value SlotType="3" ForceEffectIndex="202" ForceValue="2" ForceValueType="1" Grade="1" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="202" ForceValue="3" ForceValueType="1" Grade="2" Tier="63" Rate="7.74" />
+			<Value SlotType="3" ForceEffectIndex="202" ForceValue="4" ForceValueType="1" Grade="3" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="202" ForceValue="6" ForceValueType="1" Grade="4" Tier="63" Rate="0.9" />
+			<Value SlotType="3" ForceEffectIndex="202" ForceValue="9" ForceValueType="1" Grade="5" Tier="63" Rate="0.36" />
+			<Value SlotType="3" ForceEffectIndex="203" ForceValue="2" ForceValueType="1" Grade="1" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="203" ForceValue="3" ForceValueType="1" Grade="2" Tier="63" Rate="7.74" />
+			<Value SlotType="3" ForceEffectIndex="203" ForceValue="4" ForceValueType="1" Grade="3" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="203" ForceValue="6" ForceValueType="1" Grade="4" Tier="63" Rate="0.9" />
+			<Value SlotType="3" ForceEffectIndex="203" ForceValue="9" ForceValueType="1" Grade="5" Tier="63" Rate="0.36" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="2" ForceValueType="1" Grade="1" Tier="53" Rate="4.9" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="3" ForceValueType="1" Grade="2" Tier="53" Rate="1.463" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="4" ForceValueType="1" Grade="3" Tier="53" Rate="0.56" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="6" ForceValueType="1" Grade="4" Tier="53" Rate="0.07" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="9" ForceValueType="1" Grade="5" Tier="53" Rate="0.007" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="2" ForceValueType="1" Grade="1" Tier="53" Rate="4.9" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="3" ForceValueType="1" Grade="2" Tier="53" Rate="1.463" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="4" ForceValueType="1" Grade="3" Tier="53" Rate="0.56" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="6" ForceValueType="1" Grade="4" Tier="53" Rate="0.07" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="9" ForceValueType="1" Grade="5" Tier="53" Rate="0.007" />
+			<Value SlotType="3" ForceEffectIndex="206" ForceValue="1" ForceValueType="2" Grade="1" Tier="42" Rate="1.9598" />
+			<Value SlotType="3" ForceEffectIndex="206" ForceValue="2" ForceValueType="2" Grade="2" Tier="42" Rate="0.04" />
+			<Value SlotType="3" ForceEffectIndex="206" ForceValue="3" ForceValueType="2" Grade="3" Tier="42" Rate="0.0002" />
+			<Value SlotType="3" ForceEffectIndex="207" ForceValue="1" ForceValueType="2" Grade="1" Tier="42" Rate="1.9598" />
+			<Value SlotType="3" ForceEffectIndex="207" ForceValue="2" ForceValueType="2" Grade="2" Tier="42" Rate="0.04" />
+			<Value SlotType="3" ForceEffectIndex="207" ForceValue="3" ForceValueType="2" Grade="3" Tier="42" Rate="0.0002" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="3" ForceValueType="1" Grade="1" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="4" ForceValueType="1" Grade="2" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="5" ForceValueType="1" Grade="3" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="6" ForceValueType="1" Grade="4" Tier="74" Rate="4.6" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="7" ForceValueType="1" Grade="5" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="8" ForceValueType="1" Grade="6" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="9" ForceValueType="1" Grade="7" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="11" ForceValueType="1" Grade="8" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="14" ForceValueType="1" Grade="9" Tier="74" Rate="0.69" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="18" ForceValueType="1" Grade="10" Tier="74" Rate="0.46" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="3" ForceValueType="1" Grade="1" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="4" ForceValueType="1" Grade="2" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="5" ForceValueType="1" Grade="3" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="6" ForceValueType="1" Grade="4" Tier="74" Rate="4.6" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="7" ForceValueType="1" Grade="5" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="8" ForceValueType="1" Grade="6" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="9" ForceValueType="1" Grade="7" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="11" ForceValueType="1" Grade="8" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="14" ForceValueType="1" Grade="9" Tier="74" Rate="0.69" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="18" ForceValueType="1" Grade="10" Tier="74" Rate="0.46" />
+			<Value SlotType="3" ForceEffectIndex="216" ForceValue="2" ForceValueType="1" Grade="1" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="216" ForceValue="3" ForceValueType="1" Grade="2" Tier="63" Rate="7.74" />
+			<Value SlotType="3" ForceEffectIndex="216" ForceValue="4" ForceValueType="1" Grade="3" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="216" ForceValue="6" ForceValueType="1" Grade="4" Tier="63" Rate="0.9" />
+			<Value SlotType="3" ForceEffectIndex="216" ForceValue="9" ForceValueType="1" Grade="5" Tier="63" Rate="0.36" />
+			<Value SlotType="3" ForceEffectIndex="217" ForceValue="2" ForceValueType="1" Grade="1" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="217" ForceValue="3" ForceValueType="1" Grade="2" Tier="63" Rate="7.74" />
+			<Value SlotType="3" ForceEffectIndex="217" ForceValue="4" ForceValueType="1" Grade="3" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="217" ForceValue="6" ForceValueType="1" Grade="4" Tier="63" Rate="0.9" />
+			<Value SlotType="3" ForceEffectIndex="217" ForceValue="9" ForceValueType="1" Grade="5" Tier="63" Rate="0.36" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="3" ForceValueType="1" Grade="1" Tier="53" Rate="4.9" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="4" ForceValueType="1" Grade="2" Tier="53" Rate="1.463" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="5" ForceValueType="1" Grade="3" Tier="53" Rate="0.56" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="7" ForceValueType="1" Grade="4" Tier="53" Rate="0.07" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="10" ForceValueType="1" Grade="5" Tier="53" Rate="0.007" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="3" ForceValueType="1" Grade="1" Tier="53" Rate="4.9" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="4" ForceValueType="1" Grade="2" Tier="53" Rate="1.463" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="5" ForceValueType="1" Grade="3" Tier="53" Rate="0.56" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="7" ForceValueType="1" Grade="4" Tier="53" Rate="0.07" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="10" ForceValueType="1" Grade="5" Tier="53" Rate="0.007" />
+			<Value SlotType="3" ForceEffectIndex="188" ForceValue="2" ForceValueType="1" Grade="1" Tier="43" Rate="1.5" />
+			<Value SlotType="3" ForceEffectIndex="188" ForceValue="3" ForceValueType="1" Grade="2" Tier="43" Rate="0.409" />
+			<Value SlotType="3" ForceEffectIndex="188" ForceValue="5" ForceValueType="1" Grade="3" Tier="43" Rate="0.08" />
+			<Value SlotType="3" ForceEffectIndex="188" ForceValue="8" ForceValueType="1" Grade="4" Tier="43" Rate="0.01" />
+			<Value SlotType="3" ForceEffectIndex="188" ForceValue="11" ForceValueType="1" Grade="5" Tier="43" Rate="0.001" />
+			<Value SlotType="3" ForceEffectIndex="163" ForceValue="2" ForceValueType="1" Grade="1" Tier="43" Rate="1.5" />
+			<Value SlotType="3" ForceEffectIndex="163" ForceValue="3" ForceValueType="1" Grade="2" Tier="43" Rate="0.409" />
+			<Value SlotType="3" ForceEffectIndex="163" ForceValue="5" ForceValueType="1" Grade="3" Tier="43" Rate="0.08" />
+			<Value SlotType="3" ForceEffectIndex="163" ForceValue="8" ForceValueType="1" Grade="4" Tier="43" Rate="0.01" />
+			<Value SlotType="3" ForceEffectIndex="163" ForceValue="11" ForceValueType="1" Grade="5" Tier="43" Rate="0.001" />
+		</Pool>
+		<Pool ID="13">
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="3" ForceValueType="1" Grade="1" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="4" ForceValueType="1" Grade="2" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="5" ForceValueType="1" Grade="3" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="6" ForceValueType="1" Grade="4" Tier="74" Rate="4.6" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="7" ForceValueType="1" Grade="5" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="8" ForceValueType="1" Grade="6" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="9" ForceValueType="1" Grade="7" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="1" ForceValueType="1" Grade="8" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="14" ForceValueType="1" Grade="9" Tier="74" Rate="0.69" />
+			<Value SlotType="3" ForceEffectIndex="212" ForceValue="18" ForceValueType="1" Grade="10" Tier="74" Rate="0.46" />
+
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="3"  ForceValueType="1" Grade="1" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="4"  ForceValueType="1" Grade="2" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="5"  ForceValueType="1" Grade="3" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="6"  ForceValueType="1" Grade="4" Tier="74" Rate="4.6" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="7"  ForceValueType="1" Grade="5" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="8"  ForceValueType="1" Grade="6" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="9"  ForceValueType="1" Grade="7" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="1"  ForceValueType="1" Grade="8" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="14" ForceValueType="1" Grade="9" Tier="74" Rate="0.69" />
+			<Value SlotType="3" ForceEffectIndex="213" ForceValue="18" ForceValueType="1" Grade="10" Tier="74" Rate="0.46" />
+
+			<Value SlotType="3" ForceEffectIndex="216" ForceValue="2" ForceValueType="1" Grade="1" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="216" ForceValue="3" ForceValueType="1" Grade="2" Tier="63" Rate="7.74" />
+			<Value SlotType="3" ForceEffectIndex="216" ForceValue="4" ForceValueType="1" Grade="3" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="216" ForceValue="6" ForceValueType="1" Grade="4" Tier="63" Rate="0.9" />
+			<Value SlotType="3" ForceEffectIndex="216" ForceValue="9" ForceValueType="1" Grade="5" Tier="63" Rate="0.36" />
+
+			<Value SlotType="3" ForceEffectIndex="217" ForceValue="2" ForceValueType="1" Grade="1" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="217" ForceValue="3" ForceValueType="1" Grade="2" Tier="63" Rate="7.74" />
+			<Value SlotType="3" ForceEffectIndex="217" ForceValue="4" ForceValueType="1" Grade="3" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="217" ForceValue="6" ForceValueType="1" Grade="4" Tier="63" Rate="0.9" />
+			<Value SlotType="3" ForceEffectIndex="217" ForceValue="9" ForceValueType="1" Grade="5" Tier="63" Rate="0.36" />
+
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="3" ForceValueType="1" Grade="1" Tier="53" Rate="4.9" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="4" ForceValueType="1" Grade="2" Tier="53" Rate="1.463" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="5" ForceValueType="1" Grade="3" Tier="53" Rate="0.56" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="7" ForceValueType="1" Grade="4" Tier="53" Rate="0.07" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="10" ForceValueType="1" Grade="5" Tier="53" Rate="0.007" />
+
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="3" ForceValueType="1" Grade="1" Tier="53" Rate="4.9" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="4" ForceValueType="1" Grade="2" Tier="53" Rate="1.463" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="5" ForceValueType="1" Grade="3" Tier="53" Rate="0.56" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="7" ForceValueType="1" Grade="4" Tier="53" Rate="0.07" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="10" ForceValueType="1" Grade="5" Tier="53" Rate="0.007" />
+
+			<Value SlotType="3" ForceEffectIndex="208" ForceValue="2" ForceValueType="1" Grade="1" Tier="43" Rate="1.5" />
+			<Value SlotType="3" ForceEffectIndex="208" ForceValue="3" ForceValueType="1" Grade="2" Tier="43" Rate="0.409" />
+			<Value SlotType="3" ForceEffectIndex="208" ForceValue="4" ForceValueType="1" Grade="3" Tier="43" Rate="0.08" />
+			<Value SlotType="3" ForceEffectIndex="208" ForceValue="8" ForceValueType="1" Grade="4" Tier="43" Rate="0.01" />
+			<Value SlotType="3" ForceEffectIndex="208" ForceValue="11" ForceValueType="1" Grade="5" Tier="43" Rate="0.001" />
+
+			<Value SlotType="3" ForceEffectIndex="209" ForceValue="2" ForceValueType="1" Grade="1" Tier="43" Rate="1.5" />
+			<Value SlotType="3" ForceEffectIndex="209" ForceValue="3" ForceValueType="1" Grade="2" Tier="43" Rate="0.409" />
+			<Value SlotType="3" ForceEffectIndex="209" ForceValue="4" ForceValueType="1" Grade="3" Tier="43" Rate="0.08" />
+			<Value SlotType="3" ForceEffectIndex="209" ForceValue="8" ForceValueType="1" Grade="4" Tier="43" Rate="0.01" />
+			<Value SlotType="3" ForceEffectIndex="209" ForceValue="11" ForceValueType="1" Grade="5" Tier="43" Rate="0.001" />
+		</Pool>
+		<Pool ID="14">
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="12" ForceValueType="1" Grade="1" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="16" ForceValueType="1" Grade="2" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="20" ForceValueType="1" Grade="3" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="24" ForceValueType="1" Grade="4" Tier="74" Rate="4.6" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="28" ForceValueType="1" Grade="5" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="32" ForceValueType="1" Grade="6" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="36" ForceValueType="1" Grade="7" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="44" ForceValueType="1" Grade="8" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="56" ForceValueType="1" Grade="9" Tier="74" Rate="0.69" />
+			<Value SlotType="3" ForceEffectIndex="182" ForceValue="72" ForceValueType="1" Grade="10" Tier="74" Rate="0.46" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="12" ForceValueType="1" Grade="1" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="16" ForceValueType="1" Grade="2" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="20" ForceValueType="1" Grade="3" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="24" ForceValueType="1" Grade="4" Tier="74" Rate="4.6" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="28" ForceValueType="1" Grade="5" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="32" ForceValueType="1" Grade="6" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="36" ForceValueType="1" Grade="7" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="44" ForceValueType="1" Grade="8" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="56" ForceValueType="1" Grade="9" Tier="74" Rate="0.69" />
+			<Value SlotType="3" ForceEffectIndex="183" ForceValue="72" ForceValueType="1" Grade="10" Tier="74" Rate="0.46" />
+			<Value SlotType="3" ForceEffectIndex="202" ForceValue="4" ForceValueType="1" Grade="1" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="202" ForceValue="5" ForceValueType="1" Grade="2" Tier="63" Rate="7.74" />
+			<Value SlotType="3" ForceEffectIndex="202" ForceValue="6" ForceValueType="1" Grade="3" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="202" ForceValue="8" ForceValueType="1" Grade="4" Tier="63" Rate="0.9" />
+			<Value SlotType="3" ForceEffectIndex="202" ForceValue="11" ForceValueType="1" Grade="5" Tier="63" Rate="0.36" />
+			<Value SlotType="3" ForceEffectIndex="203" ForceValue="4" ForceValueType="1" Grade="1" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="203" ForceValue="5" ForceValueType="1" Grade="2" Tier="63" Rate="7.74" />
+			<Value SlotType="3" ForceEffectIndex="203" ForceValue="6" ForceValueType="1" Grade="3" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="203" ForceValue="8" ForceValueType="1" Grade="4" Tier="63" Rate="0.9" />
+			<Value SlotType="3" ForceEffectIndex="203" ForceValue="11" ForceValueType="1" Grade="5" Tier="63" Rate="0.36" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="4" ForceValueType="1" Grade="1" Tier="53" Rate="4.9" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="5" ForceValueType="1" Grade="2" Tier="53" Rate="1.463" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="6" ForceValueType="1" Grade="3" Tier="53" Rate="0.56" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="8" ForceValueType="1" Grade="4" Tier="53" Rate="0.07" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="11" ForceValueType="1" Grade="5" Tier="53" Rate="0.007" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="4" ForceValueType="1" Grade="1" Tier="53" Rate="4.9" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="5" ForceValueType="1" Grade="2" Tier="53" Rate="1.463" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="6" ForceValueType="1" Grade="3" Tier="53" Rate="0.56" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="8" ForceValueType="1" Grade="4" Tier="53" Rate="0.07" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="11" ForceValueType="1" Grade="5" Tier="53" Rate="0.007" />
+			<Value SlotType="3" ForceEffectIndex="214" ForceValue="1" ForceValueType="2" Grade="1" Tier="41" Rate="1.999" />
+			<Value SlotType="3" ForceEffectIndex="214" ForceValue="2" ForceValueType="2" Grade="2" Tier="41" Rate="0.001" />
+			<Value SlotType="3" ForceEffectIndex="215" ForceValue="1" ForceValueType="2" Grade="1" Tier="41" Rate="1.999" />
+			<Value SlotType="3" ForceEffectIndex="215" ForceValue="2" ForceValueType="2" Grade="2" Tier="41" Rate="0.001" />
+		</Pool>
+		<Pool ID="15">
+			<Value SlotType="3" ForceEffectIndex="186" ForceValue="15" ForceValueType="1" Grade="1" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="186" ForceValue="16" ForceValueType="1" Grade="2" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="186" ForceValue="17" ForceValueType="1" Grade="3" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="186" ForceValue="18" ForceValueType="1" Grade="4" Tier="74" Rate="4.6" />
+			<Value SlotType="3" ForceEffectIndex="186" ForceValue="19" ForceValueType="1" Grade="5" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="186" ForceValue="20" ForceValueType="1" Grade="6" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="186" ForceValue="21" ForceValueType="1" Grade="7" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="186" ForceValue="23" ForceValueType="1" Grade="8" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="186" ForceValue="26" ForceValueType="1" Grade="9" Tier="74" Rate="0.69" />
+			<Value SlotType="3" ForceEffectIndex="186" ForceValue="30" ForceValueType="1" Grade="10" Tier="74" Rate="0.46" />
+			<Value SlotType="3" ForceEffectIndex="187" ForceValue="15" ForceValueType="1" Grade="1" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="187" ForceValue="16" ForceValueType="1" Grade="2" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="187" ForceValue="17" ForceValueType="1" Grade="3" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="187" ForceValue="18" ForceValueType="1" Grade="4" Tier="74" Rate="4.6" />
+			<Value SlotType="3" ForceEffectIndex="187" ForceValue="19" ForceValueType="1" Grade="5" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="187" ForceValue="20" ForceValueType="1" Grade="6" Tier="74" Rate="3.45" />
+			<Value SlotType="3" ForceEffectIndex="187" ForceValue="21" ForceValueType="1" Grade="7" Tier="74" Rate="2.3" />
+			<Value SlotType="3" ForceEffectIndex="187" ForceValue="23" ForceValueType="1" Grade="8" Tier="74" Rate="1.15" />
+			<Value SlotType="3" ForceEffectIndex="187" ForceValue="26" ForceValueType="1" Grade="9" Tier="74" Rate="0.69" />
+			<Value SlotType="3" ForceEffectIndex="187" ForceValue="30" ForceValueType="1" Grade="10" Tier="74" Rate="0.46" />
+			<Value SlotType="3" ForceEffectIndex="198" ForceValue="1" ForceValueType="2" Grade="1" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="198" ForceValue="2" ForceValueType="2" Grade="2" Tier="63" Rate="7.74" />
+			<Value SlotType="3" ForceEffectIndex="198" ForceValue="3" ForceValueType="2" Grade="3" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="198" ForceValue="4" ForceValueType="2" Grade="4" Tier="63" Rate="0.9" />
+			<Value SlotType="3" ForceEffectIndex="198" ForceValue="5" ForceValueType="2" Grade="5" Tier="63" Rate="0.36" />
+			<Value SlotType="3" ForceEffectIndex="199" ForceValue="1" ForceValueType="2" Grade="1" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="199" ForceValue="2" ForceValueType="2" Grade="2" Tier="63" Rate="7.74" />
+			<Value SlotType="3" ForceEffectIndex="199" ForceValue="3" ForceValueType="2" Grade="3" Tier="63" Rate="4.5" />
+			<Value SlotType="3" ForceEffectIndex="199" ForceValue="4" ForceValueType="2" Grade="4" Tier="63" Rate="0.9" />
+			<Value SlotType="3" ForceEffectIndex="199" ForceValue="5" ForceValueType="2" Grade="5" Tier="63" Rate="0.36" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="5" ForceValueType="1" Grade="1" Tier="53" Rate="4.9" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="6" ForceValueType="1" Grade="2" Tier="53" Rate="1.463" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="7" ForceValueType="1" Grade="3" Tier="53" Rate="0.56" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="9" ForceValueType="1" Grade="4" Tier="53" Rate="0.07" />
+			<Value SlotType="3" ForceEffectIndex="180" ForceValue="12" ForceValueType="1" Grade="5" Tier="53" Rate="0.007" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="5" ForceValueType="1" Grade="1" Tier="53" Rate="4.9" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="6" ForceValueType="1" Grade="2" Tier="53" Rate="1.463" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="7" ForceValueType="1" Grade="3" Tier="53" Rate="0.56" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="9" ForceValueType="1" Grade="4" Tier="53" Rate="0.07" />
+			<Value SlotType="3" ForceEffectIndex="181" ForceValue="12" ForceValueType="1" Grade="5" Tier="53" Rate="0.007" />
+			<Value SlotType="3" ForceEffectIndex="173" ForceValue="1" ForceValueType="2" Grade="1" Tier="42" Rate="1.9598" />
+			<Value SlotType="3" ForceEffectIndex="173" ForceValue="2" ForceValueType="2" Grade="2" Tier="42" Rate="0.04" />
+			<Value SlotType="3" ForceEffectIndex="173" ForceValue="4" ForceValueType="2" Grade="3" Tier="42" Rate="0.0002" />
+			<Value SlotType="3" ForceEffectIndex="158" ForceValue="1" ForceValueType="2" Grade="1" Tier="42" Rate="1.9598" />
+			<Value SlotType="3" ForceEffectIndex="158" ForceValue="2" ForceValueType="2" Grade="2" Tier="42" Rate="0.04" />
+			<Value SlotType="3" ForceEffectIndex="158" ForceValue="4" ForceValueType="2" Grade="3" Tier="42" Rate="0.0002" />
+		</Pool>
+		<Pool ID="16">
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="2" ForceValueType="1" Grade="1" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="3" ForceValueType="1" Grade="2" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="4" ForceValueType="1" Grade="3" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="5" ForceValueType="1" Grade="4" Tier="54" Rate="4.6" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="6" ForceValueType="1" Grade="5" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="7" ForceValueType="1" Grade="6" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="8" ForceValueType="1" Grade="7" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="11" ForceValueType="1" Grade="8" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="15" ForceValueType="1" Grade="9" Tier="54" Rate="0.69" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="21" ForceValueType="1" Grade="10" Tier="54" Rate="0.46" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="2" ForceValueType="1" Grade="1" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="3" ForceValueType="1" Grade="2" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="4" ForceValueType="1" Grade="3" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="5" ForceValueType="1" Grade="4" Tier="54" Rate="4.6" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="6" ForceValueType="1" Grade="5" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="7" ForceValueType="1" Grade="6" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="8" ForceValueType="1" Grade="7" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="11" ForceValueType="1" Grade="8" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="15" ForceValueType="1" Grade="9" Tier="54" Rate="0.69" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="21" ForceValueType="1" Grade="10" Tier="54" Rate="0.46" />
+			<Value SlotType="4" ForceEffectIndex="216" ForceValue="4" ForceValueType="1" Grade="1" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="216" ForceValue="5" ForceValueType="1" Grade="2" Tier="43" Rate="7.74" />
+			<Value SlotType="4" ForceEffectIndex="216" ForceValue="6" ForceValueType="1" Grade="3" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="216" ForceValue="8" ForceValueType="1" Grade="4" Tier="43" Rate="0.9" />
+			<Value SlotType="4" ForceEffectIndex="216" ForceValue="11" ForceValueType="1" Grade="5" Tier="43" Rate="0.36" />
+			<Value SlotType="4" ForceEffectIndex="217" ForceValue="4" ForceValueType="1" Grade="1" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="217" ForceValue="5" ForceValueType="1" Grade="2" Tier="43" Rate="7.74" />
+			<Value SlotType="4" ForceEffectIndex="217" ForceValue="6" ForceValueType="1" Grade="3" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="217" ForceValue="8" ForceValueType="1" Grade="4" Tier="43" Rate="0.9" />
+			<Value SlotType="4" ForceEffectIndex="217" ForceValue="11" ForceValueType="1" Grade="5" Tier="43" Rate="0.36" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="4" ForceValueType="1" Grade="1" Tier="33" Rate="4.9" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="5" ForceValueType="1" Grade="2" Tier="33" Rate="1.463" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="6" ForceValueType="1" Grade="3" Tier="33" Rate="0.56" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="8" ForceValueType="1" Grade="4" Tier="33" Rate="0.07" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="11" ForceValueType="1" Grade="5" Tier="33" Rate="0.007" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="4" ForceValueType="1" Grade="1" Tier="33" Rate="4.9" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="5" ForceValueType="1" Grade="2" Tier="33" Rate="1.463" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="6" ForceValueType="1" Grade="3" Tier="33" Rate="0.56" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="8" ForceValueType="1" Grade="4" Tier="33" Rate="0.07" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="11" ForceValueType="1" Grade="5" Tier="33" Rate="0.007" />
+			<Value SlotType="4" ForceEffectIndex="208" ForceValue="4" ForceValueType="1" Grade="1" Tier="23" Rate="1.5" />
+			<Value SlotType="4" ForceEffectIndex="208" ForceValue="5" ForceValueType="1" Grade="2" Tier="23" Rate="0.409" />
+			<Value SlotType="4" ForceEffectIndex="208" ForceValue="7" ForceValueType="1" Grade="3" Tier="23" Rate="0.08" />
+			<Value SlotType="4" ForceEffectIndex="208" ForceValue="10" ForceValueType="1" Grade="4" Tier="23" Rate="0.01" />
+			<Value SlotType="4" ForceEffectIndex="208" ForceValue="13" ForceValueType="1" Grade="5" Tier="23" Rate="0.001" />
+			<Value SlotType="4" ForceEffectIndex="209" ForceValue="4" ForceValueType="1" Grade="1" Tier="23" Rate="1.5" />
+			<Value SlotType="4" ForceEffectIndex="209" ForceValue="5" ForceValueType="1" Grade="2" Tier="23" Rate="0.409" />
+			<Value SlotType="4" ForceEffectIndex="209" ForceValue="7" ForceValueType="1" Grade="3" Tier="23" Rate="0.08" />
+			<Value SlotType="4" ForceEffectIndex="209" ForceValue="10" ForceValueType="1" Grade="4" Tier="23" Rate="0.01" />
+			<Value SlotType="4" ForceEffectIndex="209" ForceValue="13" ForceValueType="1" Grade="5" Tier="23" Rate="0.001" />
+		</Pool>
+		<Pool ID="17">
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="8" ForceValueType="1" Grade="1" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="12" ForceValueType="1" Grade="2" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="16" ForceValueType="1" Grade="3" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="20" ForceValueType="1" Grade="4" Tier="54" Rate="4.6" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="24" ForceValueType="1" Grade="5" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="28" ForceValueType="1" Grade="6" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="32" ForceValueType="1" Grade="7" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="44" ForceValueType="1" Grade="8" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="60" ForceValueType="1" Grade="9" Tier="54" Rate="0.69" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="84" ForceValueType="1" Grade="10" Tier="54" Rate="0.46" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="8" ForceValueType="1" Grade="1" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="12" ForceValueType="1" Grade="2" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="16" ForceValueType="1" Grade="3" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="20" ForceValueType="1" Grade="4" Tier="54" Rate="4.6" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="24" ForceValueType="1" Grade="5" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="28" ForceValueType="1" Grade="6" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="32" ForceValueType="1" Grade="7" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="44" ForceValueType="1" Grade="8" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="60" ForceValueType="1" Grade="9" Tier="54" Rate="0.69" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="84" ForceValueType="1" Grade="10" Tier="54" Rate="0.46" />
+			<Value SlotType="4" ForceEffectIndex="202" ForceValue="3" ForceValueType="1" Grade="1" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="202" ForceValue="4" ForceValueType="1" Grade="2" Tier="43" Rate="7.74" />
+			<Value SlotType="4" ForceEffectIndex="202" ForceValue="6" ForceValueType="1" Grade="3" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="202" ForceValue="9" ForceValueType="1" Grade="4" Tier="43" Rate="0.9" />
+			<Value SlotType="4" ForceEffectIndex="202" ForceValue="12" ForceValueType="1" Grade="5" Tier="43" Rate="0.36" />
+			<Value SlotType="4" ForceEffectIndex="203" ForceValue="3" ForceValueType="1" Grade="1" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="203" ForceValue="4" ForceValueType="1" Grade="2" Tier="43" Rate="7.74" />
+			<Value SlotType="4" ForceEffectIndex="203" ForceValue="6" ForceValueType="1" Grade="3" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="203" ForceValue="9" ForceValueType="1" Grade="4" Tier="43" Rate="0.9" />
+			<Value SlotType="4" ForceEffectIndex="203" ForceValue="12" ForceValueType="1" Grade="5" Tier="43" Rate="0.36" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="3" ForceValueType="1" Grade="1" Tier="33" Rate="4.9" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="4" ForceValueType="1" Grade="2" Tier="33" Rate="1.463" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="6" ForceValueType="1" Grade="3" Tier="33" Rate="0.56" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="9" ForceValueType="1" Grade="4" Tier="33" Rate="0.07" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="12" ForceValueType="1" Grade="5" Tier="33" Rate="0.007" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="3" ForceValueType="1" Grade="1" Tier="33" Rate="4.9" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="4" ForceValueType="1" Grade="2" Tier="33" Rate="1.463" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="6" ForceValueType="1" Grade="3" Tier="33" Rate="0.56" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="9" ForceValueType="1" Grade="4" Tier="33" Rate="0.07" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="12" ForceValueType="1" Grade="5" Tier="33" Rate="0.007" />
+			<Value SlotType="4" ForceEffectIndex="206" ForceValue="2" ForceValueType="2" Grade="1" Tier="22" Rate="1.9598" />
+			<Value SlotType="4" ForceEffectIndex="206" ForceValue="3" ForceValueType="2" Grade="2" Tier="22" Rate="0.04" />
+			<Value SlotType="4" ForceEffectIndex="206" ForceValue="4" ForceValueType="2" Grade="3" Tier="22" Rate="0.0002" />
+			<Value SlotType="4" ForceEffectIndex="207" ForceValue="2" ForceValueType="2" Grade="1" Tier="22" Rate="1.9598" />
+			<Value SlotType="4" ForceEffectIndex="207" ForceValue="3" ForceValueType="2" Grade="2" Tier="22" Rate="0.04" />
+			<Value SlotType="4" ForceEffectIndex="207" ForceValue="4" ForceValueType="2" Grade="3" Tier="22" Rate="0.0002" />
+		</Pool>
+		<Pool ID="18">
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="4" ForceValueType="1" Grade="1" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="5" ForceValueType="1" Grade="2" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="6" ForceValueType="1" Grade="3" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="7" ForceValueType="1" Grade="4" Tier="54" Rate="4.6" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="8" ForceValueType="1" Grade="5" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="9" ForceValueType="1" Grade="6" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="10" ForceValueType="1" Grade="7" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="13" ForceValueType="1" Grade="8" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="17" ForceValueType="1" Grade="9" Tier="54" Rate="0.69" />
+			<Value SlotType="4" ForceEffectIndex="212" ForceValue="24" ForceValueType="1" Grade="10" Tier="54" Rate="0.46" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="4" ForceValueType="1" Grade="1" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="5" ForceValueType="1" Grade="2" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="6" ForceValueType="1" Grade="3" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="7" ForceValueType="1" Grade="4" Tier="54" Rate="4.6" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="8" ForceValueType="1" Grade="5" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="9" ForceValueType="1" Grade="6" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="10" ForceValueType="1" Grade="7" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="13" ForceValueType="1" Grade="8" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="17" ForceValueType="1" Grade="9" Tier="54" Rate="0.69" />
+			<Value SlotType="4" ForceEffectIndex="213" ForceValue="24" ForceValueType="1" Grade="10" Tier="54" Rate="0.46" />
+			<Value SlotType="4" ForceEffectIndex="216" ForceValue="3" ForceValueType="1" Grade="1" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="216" ForceValue="4" ForceValueType="1" Grade="2" Tier="43" Rate="7.74" />
+			<Value SlotType="4" ForceEffectIndex="216" ForceValue="6" ForceValueType="1" Grade="3" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="216" ForceValue="9" ForceValueType="1" Grade="4" Tier="43" Rate="0.9" />
+			<Value SlotType="4" ForceEffectIndex="216" ForceValue="12" ForceValueType="1" Grade="5" Tier="43" Rate="0.36" />
+			<Value SlotType="4" ForceEffectIndex="217" ForceValue="3" ForceValueType="1" Grade="1" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="217" ForceValue="4" ForceValueType="1" Grade="2" Tier="43" Rate="7.74" />
+			<Value SlotType="4" ForceEffectIndex="217" ForceValue="6" ForceValueType="1" Grade="3" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="217" ForceValue="9" ForceValueType="1" Grade="4" Tier="43" Rate="0.9" />
+			<Value SlotType="4" ForceEffectIndex="217" ForceValue="12" ForceValueType="1" Grade="5" Tier="43" Rate="0.36" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="4" ForceValueType="1" Grade="1" Tier="33" Rate="4.9" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="5" ForceValueType="1" Grade="2" Tier="33" Rate="1.463" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="7" ForceValueType="1" Grade="3" Tier="33" Rate="0.56" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="10" ForceValueType="1" Grade="4" Tier="33" Rate="0.07" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="13" ForceValueType="1" Grade="5" Tier="33" Rate="0.007" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="4" ForceValueType="1" Grade="1" Tier="33" Rate="4.9" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="5" ForceValueType="1" Grade="2" Tier="33" Rate="1.463" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="7" ForceValueType="1" Grade="3" Tier="33" Rate="0.56" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="10" ForceValueType="1" Grade="4" Tier="33" Rate="0.07" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="13" ForceValueType="1" Grade="5" Tier="33" Rate="0.007" />
+			<Value SlotType="4" ForceEffectIndex="188" ForceValue="7" ForceValueType="1" Grade="1" Tier="23" Rate="1.5" />
+			<Value SlotType="4" ForceEffectIndex="188" ForceValue="8" ForceValueType="1" Grade="2" Tier="23" Rate="0.409" />
+			<Value SlotType="4" ForceEffectIndex="188" ForceValue="10" ForceValueType="1" Grade="3" Tier="23" Rate="0.08" />
+			<Value SlotType="4" ForceEffectIndex="188" ForceValue="13" ForceValueType="1" Grade="4" Tier="23" Rate="0.01" />
+			<Value SlotType="4" ForceEffectIndex="188" ForceValue="16" ForceValueType="1" Grade="5" Tier="23" Rate="0.001" />
+			<Value SlotType="4" ForceEffectIndex="163" ForceValue="7" ForceValueType="1" Grade="1" Tier="23" Rate="1.5" />
+			<Value SlotType="4" ForceEffectIndex="163" ForceValue="8" ForceValueType="1" Grade="2" Tier="23" Rate="0.409" />
+			<Value SlotType="4" ForceEffectIndex="163" ForceValue="10" ForceValueType="1" Grade="3" Tier="23" Rate="0.08" />
+			<Value SlotType="4" ForceEffectIndex="163" ForceValue="13" ForceValueType="1" Grade="4" Tier="23" Rate="0.01" />
+			<Value SlotType="4" ForceEffectIndex="163" ForceValue="16" ForceValueType="1" Grade="5" Tier="23" Rate="0.001" />
+		</Pool>
+		<Pool ID="19">
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="14" ForceValueType="1" Grade="1" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="18" ForceValueType="1" Grade="2" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="22" ForceValueType="1" Grade="3" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="26" ForceValueType="1" Grade="4" Tier="54" Rate="4.6" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="30" ForceValueType="1" Grade="5" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="34" ForceValueType="1" Grade="6" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="38" ForceValueType="1" Grade="7" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="50" ForceValueType="1" Grade="8" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="66" ForceValueType="1" Grade="9" Tier="54" Rate="0.69" />
+			<Value SlotType="4" ForceEffectIndex="182" ForceValue="94" ForceValueType="1" Grade="10" Tier="54" Rate="0.46" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="14" ForceValueType="1" Grade="1" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="18" ForceValueType="1" Grade="2" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="22" ForceValueType="1" Grade="3" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="26" ForceValueType="1" Grade="4" Tier="54" Rate="4.6" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="30" ForceValueType="1" Grade="5" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="34" ForceValueType="1" Grade="6" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="38" ForceValueType="1" Grade="7" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="50" ForceValueType="1" Grade="8" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="66" ForceValueType="1" Grade="9" Tier="54" Rate="0.69" />
+			<Value SlotType="4" ForceEffectIndex="183" ForceValue="94" ForceValueType="1" Grade="10" Tier="54" Rate="0.46" />
+			<Value SlotType="4" ForceEffectIndex="202" ForceValue="6" ForceValueType="1" Grade="1" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="202" ForceValue="7" ForceValueType="1" Grade="2" Tier="43" Rate="7.74" />
+			<Value SlotType="4" ForceEffectIndex="202" ForceValue="9" ForceValueType="1" Grade="3" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="202" ForceValue="12" ForceValueType="1" Grade="4" Tier="43" Rate="0.9" />
+			<Value SlotType="4" ForceEffectIndex="202" ForceValue="15" ForceValueType="1" Grade="5" Tier="43" Rate="0.36" />
+			<Value SlotType="4" ForceEffectIndex="203" ForceValue="6" ForceValueType="1" Grade="1" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="203" ForceValue="7" ForceValueType="1" Grade="2" Tier="43" Rate="7.74" />
+			<Value SlotType="4" ForceEffectIndex="203" ForceValue="9" ForceValueType="1" Grade="3" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="203" ForceValue="12" ForceValueType="1" Grade="4" Tier="43" Rate="0.9" />
+			<Value SlotType="4" ForceEffectIndex="203" ForceValue="15" ForceValueType="1" Grade="5" Tier="43" Rate="0.36" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="6" ForceValueType="1" Grade="1" Tier="33" Rate="4.9" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="7" ForceValueType="1" Grade="2" Tier="33" Rate="1.463" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="9" ForceValueType="1" Grade="3" Tier="33" Rate="0.56" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="12" ForceValueType="1" Grade="4" Tier="33" Rate="0.07" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="15" ForceValueType="1" Grade="5" Tier="33" Rate="0.007" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="6" ForceValueType="1" Grade="1" Tier="33" Rate="4.9" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="7" ForceValueType="1" Grade="2" Tier="33" Rate="1.463" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="9" ForceValueType="1" Grade="3" Tier="33" Rate="0.56" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="12" ForceValueType="1" Grade="4" Tier="33" Rate="0.07" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="15" ForceValueType="1" Grade="5" Tier="33" Rate="0.007" />
+			<Value SlotType="4" ForceEffectIndex="214" ForceValue="2" ForceValueType="2" Grade="1" Tier="21" Rate="1.999" />
+			<Value SlotType="4" ForceEffectIndex="214" ForceValue="3" ForceValueType="2" Grade="2" Tier="21" Rate="0.001" />
+			<Value SlotType="4" ForceEffectIndex="215" ForceValue="2" ForceValueType="2" Grade="1" Tier="21" Rate="1.999" />
+			<Value SlotType="4" ForceEffectIndex="215" ForceValue="3" ForceValueType="2" Grade="2" Tier="21" Rate="0.001" />
+		</Pool>
+		<Pool ID="20">
+			<Value SlotType="4" ForceEffectIndex="186" ForceValue="25" ForceValueType="1" Grade="1" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="186" ForceValue="26" ForceValueType="1" Grade="2" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="186" ForceValue="27" ForceValueType="1" Grade="3" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="186" ForceValue="28" ForceValueType="1" Grade="4" Tier="54" Rate="4.6" />
+			<Value SlotType="4" ForceEffectIndex="186" ForceValue="29" ForceValueType="1" Grade="5" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="186" ForceValue="30" ForceValueType="1" Grade="6" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="186" ForceValue="31" ForceValueType="1" Grade="7" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="186" ForceValue="33" ForceValueType="1" Grade="8" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="186" ForceValue="36" ForceValueType="1" Grade="9" Tier="54" Rate="0.69" />
+			<Value SlotType="4" ForceEffectIndex="186" ForceValue="40" ForceValueType="1" Grade="10" Tier="54" Rate="0.46" />
+			<Value SlotType="4" ForceEffectIndex="187" ForceValue="25" ForceValueType="1" Grade="1" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="187" ForceValue="26" ForceValueType="1" Grade="2" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="187" ForceValue="27" ForceValueType="1" Grade="3" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="187" ForceValue="28" ForceValueType="1" Grade="4" Tier="54" Rate="4.6" />
+			<Value SlotType="4" ForceEffectIndex="187" ForceValue="29" ForceValueType="1" Grade="5" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="187" ForceValue="30" ForceValueType="1" Grade="6" Tier="54" Rate="3.45" />
+			<Value SlotType="4" ForceEffectIndex="187" ForceValue="31" ForceValueType="1" Grade="7" Tier="54" Rate="2.3" />
+			<Value SlotType="4" ForceEffectIndex="187" ForceValue="33" ForceValueType="1" Grade="8" Tier="54" Rate="1.15" />
+			<Value SlotType="4" ForceEffectIndex="187" ForceValue="36" ForceValueType="1" Grade="9" Tier="54" Rate="0.69" />
+			<Value SlotType="4" ForceEffectIndex="187" ForceValue="40" ForceValueType="1" Grade="10" Tier="54" Rate="0.46" />
+			<Value SlotType="4" ForceEffectIndex="198" ForceValue="1" ForceValueType="2" Grade="1" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="198" ForceValue="2" ForceValueType="2" Grade="2" Tier="43" Rate="7.74" />
+			<Value SlotType="4" ForceEffectIndex="198" ForceValue="3" ForceValueType="2" Grade="3" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="198" ForceValue="5" ForceValueType="2" Grade="4" Tier="43" Rate="0.9" />
+			<Value SlotType="4" ForceEffectIndex="198" ForceValue="7" ForceValueType="2" Grade="5" Tier="43" Rate="0.36" />
+			<Value SlotType="4" ForceEffectIndex="199" ForceValue="1" ForceValueType="2" Grade="1" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="199" ForceValue="2" ForceValueType="2" Grade="2" Tier="43" Rate="7.74" />
+			<Value SlotType="4" ForceEffectIndex="199" ForceValue="3" ForceValueType="2" Grade="3" Tier="43" Rate="4.5" />
+			<Value SlotType="4" ForceEffectIndex="199" ForceValue="5" ForceValueType="2" Grade="4" Tier="43" Rate="0.9" />
+			<Value SlotType="4" ForceEffectIndex="199" ForceValue="7" ForceValueType="2" Grade="5" Tier="43" Rate="0.36" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="7" ForceValueType="1" Grade="1" Tier="33" Rate="4.9" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="8" ForceValueType="1" Grade="2" Tier="33" Rate="1.463" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="10" ForceValueType="1" Grade="3" Tier="33" Rate="0.56" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="13" ForceValueType="1" Grade="4" Tier="33" Rate="0.07" />
+			<Value SlotType="4" ForceEffectIndex="180" ForceValue="16" ForceValueType="1" Grade="5" Tier="33" Rate="0.007" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="7" ForceValueType="1" Grade="1" Tier="33" Rate="4.9" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="8" ForceValueType="1" Grade="2" Tier="33" Rate="1.463" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="10" ForceValueType="1" Grade="3" Tier="33" Rate="0.56" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="13" ForceValueType="1" Grade="4" Tier="33" Rate="0.07" />
+			<Value SlotType="4" ForceEffectIndex="181" ForceValue="16" ForceValueType="1" Grade="5" Tier="33" Rate="0.007" />
+			<Value SlotType="4" ForceEffectIndex="173" ForceValue="2" ForceValueType="2" Grade="1" Tier="22" Rate="1.9598" />
+			<Value SlotType="4" ForceEffectIndex="173" ForceValue="3" ForceValueType="2" Grade="2" Tier="22" Rate="0.04" />
+			<Value SlotType="4" ForceEffectIndex="173" ForceValue="6" ForceValueType="2" Grade="3" Tier="22" Rate="0.0002" />
+			<Value SlotType="4" ForceEffectIndex="158" ForceValue="2" ForceValueType="2" Grade="1" Tier="22" Rate="1.9598" />
+			<Value SlotType="4" ForceEffectIndex="158" ForceValue="3" ForceValueType="2" Grade="2" Tier="22" Rate="0.04" />
+			<Value SlotType="4" ForceEffectIndex="158" ForceValue="6" ForceValueType="2" Grade="3" Tier="22" Rate="0.0002" />
+		</Pool>
+		<Pool ID="21">
+			<Value SlotType="5" ForceEffectIndex="198" ForceValue="1" ForceValueType="2" Grade="1" Tier="33" Rate="8.75" />
+			<Value SlotType="5" ForceEffectIndex="198" ForceValue="2" ForceValueType="2" Grade="2" Tier="33" Rate="14.14" />
+			<Value SlotType="5" ForceEffectIndex="198" ForceValue="3" ForceValueType="2" Grade="3" Tier="33" Rate="2" />
+			<Value SlotType="5" ForceEffectIndex="198" ForceValue="5" ForceValueType="2" Grade="4" Tier="33" Rate="0.1" />
+			<Value SlotType="5" ForceEffectIndex="198" ForceValue="8" ForceValueType="2" Grade="5" Tier="33" Rate="0.01" />
+			<Value SlotType="5" ForceEffectIndex="199" ForceValue="1" ForceValueType="2" Grade="1" Tier="33" Rate="8.75" />
+			<Value SlotType="5" ForceEffectIndex="199" ForceValue="2" ForceValueType="2" Grade="2" Tier="33" Rate="14.14" />
+			<Value SlotType="5" ForceEffectIndex="199" ForceValue="3" ForceValueType="2" Grade="3" Tier="33" Rate="2" />
+			<Value SlotType="5" ForceEffectIndex="199" ForceValue="5" ForceValueType="2" Grade="4" Tier="33" Rate="0.1" />
+			<Value SlotType="5" ForceEffectIndex="199" ForceValue="8" ForceValueType="2" Grade="5" Tier="33" Rate="0.01" />
+			<Value SlotType="5" ForceEffectIndex="180" ForceValue="15" ForceValueType="1" Grade="1" Tier="23" Rate="11.498" />
+			<Value SlotType="5" ForceEffectIndex="180" ForceValue="20" ForceValueType="1" Grade="2" Tier="23" Rate="7.398" />
+			<Value SlotType="5" ForceEffectIndex="180" ForceValue="25" ForceValueType="1" Grade="3" Tier="23" Rate="1" />
+			<Value SlotType="5" ForceEffectIndex="180" ForceValue="40" ForceValueType="1" Grade="4" Tier="23" Rate="0.1" />
+			<Value SlotType="5" ForceEffectIndex="180" ForceValue="80" ForceValueType="1" Grade="5" Tier="23" Rate="0.004" />
+			<Value SlotType="5" ForceEffectIndex="181" ForceValue="15" ForceValueType="1" Grade="1" Tier="23" Rate="11.498" />
+			<Value SlotType="5" ForceEffectIndex="181" ForceValue="20" ForceValueType="1" Grade="2" Tier="23" Rate="7.398" />
+			<Value SlotType="5" ForceEffectIndex="181" ForceValue="25" ForceValueType="1" Grade="3" Tier="23" Rate="1" />
+			<Value SlotType="5" ForceEffectIndex="181" ForceValue="40" ForceValueType="1" Grade="4" Tier="23" Rate="0.1" />
+			<Value SlotType="5" ForceEffectIndex="181" ForceValue="80" ForceValueType="1" Grade="5" Tier="23" Rate="0.004" />
+			<Value SlotType="5" ForceEffectIndex="188" ForceValue="5" ForceValueType="1" Grade="1" Tier="13" Rate="2.4" />
+			<Value SlotType="5" ForceEffectIndex="188" ForceValue="10" ForceValueType="1" Grade="2" Tier="13" Rate="1.5112" />
+			<Value SlotType="5" ForceEffectIndex="188" ForceValue="15" ForceValueType="1" Grade="3" Tier="13" Rate="0.08" />
+			<Value SlotType="5" ForceEffectIndex="188" ForceValue="25" ForceValueType="1" Grade="4" Tier="13" Rate="0.008" />
+			<Value SlotType="5" ForceEffectIndex="188" ForceValue="45" ForceValueType="1" Grade="5" Tier="13" Rate="0.0008" />
+			<Value SlotType="5" ForceEffectIndex="163" ForceValue="5" ForceValueType="1" Grade="1" Tier="13" Rate="2.4" />
+			<Value SlotType="5" ForceEffectIndex="163" ForceValue="10" ForceValueType="1" Grade="2" Tier="13" Rate="1.5112" />
+			<Value SlotType="5" ForceEffectIndex="163" ForceValue="15" ForceValueType="1" Grade="3" Tier="13" Rate="0.08" />
+			<Value SlotType="5" ForceEffectIndex="163" ForceValue="25" ForceValueType="1" Grade="4" Tier="13" Rate="0.008" />
+			<Value SlotType="5" ForceEffectIndex="163" ForceValue="45" ForceValueType="1" Grade="5" Tier="13" Rate="0.0008" />
+			<Value SlotType="5" ForceEffectIndex="172" ForceValue="2" ForceValueType="2" Grade="1" Tier="12" Rate="0.9798" />
+			<Value SlotType="5" ForceEffectIndex="172" ForceValue="3" ForceValueType="2" Grade="2" Tier="12" Rate="0.02" />
+			<Value SlotType="5" ForceEffectIndex="172" ForceValue="7" ForceValueType="2" Grade="3" Tier="12" Rate="0.0002" />
+			<Value SlotType="5" ForceEffectIndex="153" ForceValue="2" ForceValueType="2" Grade="1" Tier="12" Rate="0.9798" />
+			<Value SlotType="5" ForceEffectIndex="153" ForceValue="3" ForceValueType="2" Grade="2" Tier="12" Rate="0.02" />
+			<Value SlotType="5" ForceEffectIndex="153" ForceValue="7" ForceValueType="2" Grade="3" Tier="12" Rate="0.0002" />
+		</Pool>
+		<Pool ID="22">
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="1" ForceValueType="1" Grade="1" Tier="74" Rate="1" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="2" ForceValueType="1" Grade="2" Tier="74" Rate="2" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="3" ForceValueType="1" Grade="3" Tier="74" Rate="3" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="4" ForceValueType="1" Grade="4" Tier="74" Rate="4" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="5" ForceValueType="1" Grade="5" Tier="74" Rate="3" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="6" ForceValueType="1" Grade="6" Tier="74" Rate="3" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="7" ForceValueType="1" Grade="7" Tier="74" Rate="2" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="9" ForceValueType="1" Grade="8" Tier="74" Rate="1" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="12" ForceValueType="1" Grade="9" Tier="74" Rate="0.6" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="16" ForceValueType="1" Grade="10" Tier="74" Rate="0.4" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="1" ForceValueType="1" Grade="1" Tier="74" Rate="1.25" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="2" ForceValueType="1" Grade="2" Tier="74" Rate="2.5" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="3" ForceValueType="1" Grade="3" Tier="74" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="4" ForceValueType="1" Grade="4" Tier="74" Rate="5" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="5" ForceValueType="1" Grade="5" Tier="74" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="6" ForceValueType="1" Grade="6" Tier="74" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="7" ForceValueType="1" Grade="7" Tier="74" Rate="2.5" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="9" ForceValueType="1" Grade="8" Tier="74" Rate="1.25" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="12" ForceValueType="1" Grade="9" Tier="74" Rate="0.75" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="16" ForceValueType="1" Grade="10" Tier="74" Rate="0.5" />
+			<Value SlotType="6" ForceEffectIndex="73" ForceValue="1" ForceValueType="1" Grade="1" Tier="63" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="73" ForceValue="2" ForceValueType="1" Grade="2" Tier="63" Rate="6.45" />
+			<Value SlotType="6" ForceEffectIndex="73" ForceValue="3" ForceValueType="1" Grade="3" Tier="63" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="73" ForceValue="5" ForceValueType="1" Grade="4" Tier="63" Rate="0.75" />
+			<Value SlotType="6" ForceEffectIndex="73" ForceValue="8" ForceValueType="1" Grade="5" Tier="63" Rate="0.3" />
+			<Value SlotType="6" ForceEffectIndex="81" ForceValue="1" ForceValueType="1" Grade="1" Tier="63" Rate="5" />
+			<Value SlotType="6" ForceEffectIndex="81" ForceValue="2" ForceValueType="1" Grade="2" Tier="63" Rate="8.6" />
+			<Value SlotType="6" ForceEffectIndex="81" ForceValue="3" ForceValueType="1" Grade="3" Tier="63" Rate="5" />
+			<Value SlotType="6" ForceEffectIndex="81" ForceValue="5" ForceValueType="1" Grade="4" Tier="63" Rate="1" />
+			<Value SlotType="6" ForceEffectIndex="81" ForceValue="8" ForceValueType="1" Grade="5" Tier="63" Rate="0.4" />
+			<Value SlotType="6" ForceEffectIndex="74" ForceValue="3" ForceValueType="1" Grade="1" Tier="43" Rate="7.5" />
+			<Value SlotType="6" ForceEffectIndex="74" ForceValue="4" ForceValueType="1" Grade="2" Tier="43" Rate="6.135" />
+			<Value SlotType="6" ForceEffectIndex="74" ForceValue="5" ForceValueType="1" Grade="3" Tier="43" Rate="1.2" />
+			<Value SlotType="6" ForceEffectIndex="74" ForceValue="7" ForceValueType="1" Grade="4" Tier="43" Rate="0.15" />
+			<Value SlotType="6" ForceEffectIndex="74" ForceValue="10" ForceValueType="1" Grade="5" Tier="43" Rate="0.015" />
+			<Value SlotType="6" ForceEffectIndex="139" ForceValue="3" ForceValueType="1" Grade="1" Tier="43" Rate="2.75" />
+			<Value SlotType="6" ForceEffectIndex="139" ForceValue="4" ForceValueType="1" Grade="2" Tier="43" Rate="2.028" />
+			<Value SlotType="6" ForceEffectIndex="139" ForceValue="5" ForceValueType="1" Grade="3" Tier="43" Rate="0.2" />
+			<Value SlotType="6" ForceEffectIndex="139" ForceValue="7" ForceValueType="1" Grade="4" Tier="43" Rate="0.02" />
+			<Value SlotType="6" ForceEffectIndex="139" ForceValue="10" ForceValueType="1" Grade="5" Tier="43" Rate="0.002" />
+		</Pool>
+		<Pool ID="23">
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="4" ForceValueType="1" Grade="1" Tier="74" Rate="1" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="8" ForceValueType="1" Grade="2" Tier="74" Rate="2" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="12" ForceValueType="1" Grade="3" Tier="74" Rate="3" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="16" ForceValueType="1" Grade="4" Tier="74" Rate="4" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="20" ForceValueType="1" Grade="5" Tier="74" Rate="3" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="24" ForceValueType="1" Grade="6" Tier="74" Rate="3" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="28" ForceValueType="1" Grade="7" Tier="74" Rate="2" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="36" ForceValueType="1" Grade="8" Tier="74" Rate="1" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="48" ForceValueType="1" Grade="9" Tier="74" Rate="0.6" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="64" ForceValueType="1" Grade="10" Tier="74" Rate="0.4" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="4" ForceValueType="1" Grade="1" Tier="74" Rate="1.25" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="8" ForceValueType="1" Grade="2" Tier="74" Rate="2.5" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="12" ForceValueType="1" Grade="3" Tier="74" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="16" ForceValueType="1" Grade="4" Tier="74" Rate="5" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="20" ForceValueType="1" Grade="5" Tier="74" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="24" ForceValueType="1" Grade="6" Tier="74" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="28" ForceValueType="1" Grade="7" Tier="74" Rate="2.5" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="36" ForceValueType="1" Grade="8" Tier="74" Rate="1.25" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="48" ForceValueType="1" Grade="9" Tier="74" Rate="0.75" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="64" ForceValueType="1" Grade="10" Tier="74" Rate="0.5" />
+			<Value SlotType="6" ForceEffectIndex="98" ForceValue="1" ForceValueType="2" Grade="1" Tier="42" Rate="13.2" />
+			<Value SlotType="6" ForceEffectIndex="98" ForceValue="2" ForceValueType="2" Grade="2" Tier="42" Rate="1.5" />
+			<Value SlotType="6" ForceEffectIndex="98" ForceValue="3" ForceValueType="2" Grade="3" Tier="42" Rate="0.3" />
+			<Value SlotType="6" ForceEffectIndex="39" ForceValue="2" ForceValueType="1" Grade="1" Tier="53" Rate="5" />
+			<Value SlotType="6" ForceEffectIndex="39" ForceValue="3" ForceValueType="1" Grade="2" Tier="53" Rate="8.8" />
+			<Value SlotType="6" ForceEffectIndex="39" ForceValue="4" ForceValueType="1" Grade="3" Tier="53" Rate="5" />
+			<Value SlotType="6" ForceEffectIndex="39" ForceValue="6" ForceValueType="1" Grade="4" Tier="53" Rate="1" />
+			<Value SlotType="6" ForceEffectIndex="39" ForceValue="9" ForceValueType="1" Grade="5" Tier="53" Rate="0.2" />
+			<Value SlotType="6" ForceEffectIndex="1" ForceValue="10" ForceValueType="1" Grade="1" Tier="53" Rate="7.5" />
+			<Value SlotType="6" ForceEffectIndex="1" ForceValue="15" ForceValueType="1" Grade="2" Tier="53" Rate="6.135" />
+			<Value SlotType="6" ForceEffectIndex="1" ForceValue="20" ForceValueType="1" Grade="3" Tier="53" Rate="1.2" />
+			<Value SlotType="6" ForceEffectIndex="1" ForceValue="25" ForceValueType="1" Grade="4" Tier="53" Rate="0.15" />
+			<Value SlotType="6" ForceEffectIndex="1" ForceValue="35" ForceValueType="1" Grade="5" Tier="53" Rate="0.015" />
+			<Value SlotType="6" ForceEffectIndex="127" ForceValue="1" ForceValueType="2" Grade="1" Tier="42" Rate="4.978" />
+			<Value SlotType="6" ForceEffectIndex="127" ForceValue="2" ForceValueType="2" Grade="2" Tier="42" Rate="0.02" />
+			<Value SlotType="6" ForceEffectIndex="127" ForceValue="3" ForceValueType="2" Grade="3" Tier="42" Rate="0.002" />
+		</Pool>
+		<Pool ID="24">
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="3" ForceValueType="1" Grade="1" Tier="74" Rate="1" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="4" ForceValueType="1" Grade="2" Tier="74" Rate="2" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="5" ForceValueType="1" Grade="3" Tier="74" Rate="3" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="6" ForceValueType="1" Grade="4" Tier="74" Rate="4" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="7" ForceValueType="1" Grade="5" Tier="74" Rate="3" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="8" ForceValueType="1" Grade="6" Tier="74" Rate="3" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="9" ForceValueType="1" Grade="7" Tier="74" Rate="2" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="11" ForceValueType="1" Grade="8" Tier="74" Rate="1" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="14" ForceValueType="1" Grade="9" Tier="74" Rate="0.6" />
+			<Value SlotType="6" ForceEffectIndex="71" ForceValue="18" ForceValueType="1" Grade="10" Tier="74" Rate="0.4" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="3" ForceValueType="1" Grade="1" Tier="74" Rate="1.25" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="4" ForceValueType="1" Grade="2" Tier="74" Rate="2.5" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="5" ForceValueType="1" Grade="3" Tier="74" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="6" ForceValueType="1" Grade="4" Tier="74" Rate="5" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="7" ForceValueType="1" Grade="5" Tier="74" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="8" ForceValueType="1" Grade="6" Tier="74" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="9" ForceValueType="1" Grade="7" Tier="74" Rate="2.5" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="11" ForceValueType="1" Grade="8" Tier="74" Rate="1.25" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="14" ForceValueType="1" Grade="9" Tier="74" Rate="0.75" />
+			<Value SlotType="6" ForceEffectIndex="75" ForceValue="18" ForceValueType="1" Grade="10" Tier="74" Rate="0.5" />
+			<Value SlotType="6" ForceEffectIndex="73" ForceValue="2" ForceValueType="1" Grade="1" Tier="63" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="73" ForceValue="3" ForceValueType="1" Grade="2" Tier="63" Rate="6.45" />
+			<Value SlotType="6" ForceEffectIndex="73" ForceValue="4" ForceValueType="1" Grade="3" Tier="63" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="73" ForceValue="6" ForceValueType="1" Grade="4" Tier="63" Rate="0.75" />
+			<Value SlotType="6" ForceEffectIndex="73" ForceValue="9" ForceValueType="1" Grade="5" Tier="63" Rate="0.3" />
+			<Value SlotType="6" ForceEffectIndex="81" ForceValue="2" ForceValueType="1" Grade="1" Tier="63" Rate="5" />
+			<Value SlotType="6" ForceEffectIndex="81" ForceValue="3" ForceValueType="1" Grade="2" Tier="63" Rate="8.6" />
+			<Value SlotType="6" ForceEffectIndex="81" ForceValue="4" ForceValueType="1" Grade="3" Tier="63" Rate="5" />
+			<Value SlotType="6" ForceEffectIndex="81" ForceValue="6" ForceValueType="1" Grade="4" Tier="63" Rate="1" />
+			<Value SlotType="6" ForceEffectIndex="81" ForceValue="9" ForceValueType="1" Grade="5" Tier="63" Rate="0.4" />
+			<Value SlotType="6" ForceEffectIndex="5" ForceValue="3" ForceValueType="1" Grade="1" Tier="43" Rate="7.5" />
+			<Value SlotType="6" ForceEffectIndex="5" ForceValue="4" ForceValueType="1" Grade="2" Tier="43" Rate="6.135" />
+			<Value SlotType="6" ForceEffectIndex="5" ForceValue="5" ForceValueType="1" Grade="3" Tier="43" Rate="1.2" />
+			<Value SlotType="6" ForceEffectIndex="5" ForceValue="7" ForceValueType="1" Grade="4" Tier="43" Rate="0.15" />
+			<Value SlotType="6" ForceEffectIndex="5" ForceValue="10" ForceValueType="1" Grade="5" Tier="43" Rate="0.015" />
+			<Value SlotType="6" ForceEffectIndex="113" ForceValue="3" ForceValueType="1" Grade="1" Tier="43" Rate="2.75" />
+			<Value SlotType="6" ForceEffectIndex="113" ForceValue="4" ForceValueType="1" Grade="2" Tier="43" Rate="2.028" />
+			<Value SlotType="6" ForceEffectIndex="113" ForceValue="5" ForceValueType="1" Grade="3" Tier="43" Rate="0.2" />
+			<Value SlotType="6" ForceEffectIndex="113" ForceValue="7" ForceValueType="1" Grade="4" Tier="43" Rate="0.02" />
+			<Value SlotType="6" ForceEffectIndex="113" ForceValue="10" ForceValueType="1" Grade="5" Tier="43" Rate="0.002" />
+		</Pool>
+		<Pool ID="25">
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="12" ForceValueType="1" Grade="1" Tier="74" Rate="1" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="16" ForceValueType="1" Grade="2" Tier="74" Rate="2" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="20" ForceValueType="1" Grade="3" Tier="74" Rate="3" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="24" ForceValueType="1" Grade="4" Tier="74" Rate="4" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="28" ForceValueType="1" Grade="5" Tier="74" Rate="3" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="32" ForceValueType="1" Grade="6" Tier="74" Rate="3" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="36" ForceValueType="1" Grade="7" Tier="74" Rate="2" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="44" ForceValueType="1" Grade="8" Tier="74" Rate="1" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="56" ForceValueType="1" Grade="9" Tier="74" Rate="0.6" />
+			<Value SlotType="6" ForceEffectIndex="6" ForceValue="72" ForceValueType="1" Grade="10" Tier="74" Rate="0.4" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="12" ForceValueType="1" Grade="1" Tier="74" Rate="1.25" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="16" ForceValueType="1" Grade="2" Tier="74" Rate="2.5" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="20" ForceValueType="1" Grade="3" Tier="74" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="24" ForceValueType="1" Grade="4" Tier="74" Rate="5" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="28" ForceValueType="1" Grade="5" Tier="74" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="32" ForceValueType="1" Grade="6" Tier="74" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="36" ForceValueType="1" Grade="7" Tier="74" Rate="2.5" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="44" ForceValueType="1" Grade="8" Tier="74" Rate="1.25" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="56" ForceValueType="1" Grade="9" Tier="74" Rate="0.75" />
+			<Value SlotType="6" ForceEffectIndex="7" ForceValue="72" ForceValueType="1" Grade="10" Tier="74" Rate="0.5" />
+			<Value SlotType="6" ForceEffectIndex="1" ForceValue="25" ForceValueType="1" Grade="1" Tier="53" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="1" ForceValue="30" ForceValueType="1" Grade="2" Tier="53" Rate="6.45" />
+			<Value SlotType="6" ForceEffectIndex="1" ForceValue="35" ForceValueType="1" Grade="3" Tier="53" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="4" Tier="53" Rate="0.75" />
+			<Value SlotType="6" ForceEffectIndex="1" ForceValue="45" ForceValueType="1" Grade="5" Tier="53" Rate="0.3" />
+			<Value SlotType="6" ForceEffectIndex="39" ForceValue="3" ForceValueType="1" Grade="1" Tier="53" Rate="5" />
+			<Value SlotType="6" ForceEffectIndex="39" ForceValue="4" ForceValueType="1" Grade="2" Tier="53" Rate="8.6" />
+			<Value SlotType="6" ForceEffectIndex="39" ForceValue="5" ForceValueType="1" Grade="3" Tier="53" Rate="5" />
+			<Value SlotType="6" ForceEffectIndex="39" ForceValue="7" ForceValueType="1" Grade="4" Tier="53" Rate="1" />
+			<Value SlotType="6" ForceEffectIndex="39" ForceValue="10" ForceValueType="1" Grade="5" Tier="53" Rate="0.4" />
+			<Value SlotType="6" ForceEffectIndex="78" ForceValue="2" ForceValueType="1" Grade="1" Tier="43" Rate="7.5" />
+			<Value SlotType="6" ForceEffectIndex="78" ForceValue="3" ForceValueType="1" Grade="2" Tier="43" Rate="6.135" />
+			<Value SlotType="6" ForceEffectIndex="78" ForceValue="4" ForceValueType="1" Grade="3" Tier="43" Rate="1.2" />
+			<Value SlotType="6" ForceEffectIndex="78" ForceValue="6" ForceValueType="1" Grade="4" Tier="43" Rate="0.15" />
+			<Value SlotType="6" ForceEffectIndex="78" ForceValue="9" ForceValueType="1" Grade="5" Tier="43" Rate="0.015" />
+			<Value SlotType="6" ForceEffectIndex="80" ForceValue="5" ForceValueType="1" Grade="1" Tier="43" Rate="2.75" />
+			<Value SlotType="6" ForceEffectIndex="80" ForceValue="6" ForceValueType="1" Grade="2" Tier="43" Rate="2.028" />
+			<Value SlotType="6" ForceEffectIndex="80" ForceValue="7" ForceValueType="1" Grade="3" Tier="43" Rate="0.2" />
+			<Value SlotType="6" ForceEffectIndex="80" ForceValue="9" ForceValueType="1" Grade="4" Tier="43" Rate="0.02" />
+			<Value SlotType="6" ForceEffectIndex="80" ForceValue="12" ForceValueType="1" Grade="5" Tier="43" Rate="0.002" />
+		</Pool>
+		<Pool ID="26">
+			<Value SlotType="6" ForceEffectIndex="36" ForceValue="4" ForceValueType="1" Grade="1" Tier="74" Rate="1.25" />
+			<Value SlotType="6" ForceEffectIndex="36" ForceValue="8" ForceValueType="1" Grade="2" Tier="74" Rate="2.5" />
+			<Value SlotType="6" ForceEffectIndex="36" ForceValue="12" ForceValueType="1" Grade="3" Tier="74" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="36" ForceValue="16" ForceValueType="1" Grade="4" Tier="74" Rate="5" />
+			<Value SlotType="6" ForceEffectIndex="36" ForceValue="20" ForceValueType="1" Grade="5" Tier="74" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="36" ForceValue="24" ForceValueType="1" Grade="6" Tier="74" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="36" ForceValue="28" ForceValueType="1" Grade="7" Tier="74" Rate="2.5" />
+			<Value SlotType="6" ForceEffectIndex="36" ForceValue="36" ForceValueType="1" Grade="8" Tier="74" Rate="1.25" />
+			<Value SlotType="6" ForceEffectIndex="36" ForceValue="48" ForceValueType="1" Grade="9" Tier="74" Rate="0.75" />
+			<Value SlotType="6" ForceEffectIndex="36" ForceValue="64" ForceValueType="1" Grade="10" Tier="74" Rate="0.5" />
+			<Value SlotType="6" ForceEffectIndex="79" ForceValue="15" ForceValueType="1" Grade="1" Tier="74" Rate="1" />
+			<Value SlotType="6" ForceEffectIndex="79" ForceValue="16" ForceValueType="1" Grade="2" Tier="74" Rate="2" />
+			<Value SlotType="6" ForceEffectIndex="79" ForceValue="17" ForceValueType="1" Grade="3" Tier="74" Rate="3" />
+			<Value SlotType="6" ForceEffectIndex="79" ForceValue="18" ForceValueType="1" Grade="4" Tier="74" Rate="4" />
+			<Value SlotType="6" ForceEffectIndex="79" ForceValue="19" ForceValueType="1" Grade="5" Tier="74" Rate="3" />
+			<Value SlotType="6" ForceEffectIndex="79" ForceValue="20" ForceValueType="1" Grade="6" Tier="74" Rate="3" />
+			<Value SlotType="6" ForceEffectIndex="79" ForceValue="21" ForceValueType="1" Grade="7" Tier="74" Rate="2" />
+			<Value SlotType="6" ForceEffectIndex="79" ForceValue="23" ForceValueType="1" Grade="8" Tier="74" Rate="1" />
+			<Value SlotType="6" ForceEffectIndex="79" ForceValue="26" ForceValueType="1" Grade="9" Tier="74" Rate="0.6" />
+			<Value SlotType="6" ForceEffectIndex="79" ForceValue="30" ForceValueType="1" Grade="10" Tier="74" Rate="0.4" />
+			<Value SlotType="6" ForceEffectIndex="1" ForceValue="25" ForceValueType="1" Grade="1" Tier="53" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="1" ForceValue="30" ForceValueType="1" Grade="2" Tier="53" Rate="6.45" />
+			<Value SlotType="6" ForceEffectIndex="1" ForceValue="35" ForceValueType="1" Grade="3" Tier="53" Rate="3.75" />
+			<Value SlotType="6" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="4" Tier="53" Rate="0.75" />
+			<Value SlotType="6" ForceEffectIndex="1" ForceValue="50" ForceValueType="1" Grade="5" Tier="53" Rate="0.3" />
+			<Value SlotType="6" ForceEffectIndex="132" ForceValue="1" ForceValueType="2" Grade="1" Tier="63" Rate="5" />
+			<Value SlotType="6" ForceEffectIndex="132" ForceValue="2" ForceValueType="2" Grade="2" Tier="63" Rate="8.6" />
+			<Value SlotType="6" ForceEffectIndex="132" ForceValue="3" ForceValueType="2" Grade="3" Tier="63" Rate="5" />
+			<Value SlotType="6" ForceEffectIndex="132" ForceValue="4" ForceValueType="2" Grade="4" Tier="63" Rate="1" />
+			<Value SlotType="6" ForceEffectIndex="132" ForceValue="5" ForceValueType="2" Grade="5" Tier="63" Rate="0.4" />
+			<Value SlotType="6" ForceEffectIndex="5" ForceValue="7" ForceValueType="1" Grade="1" Tier="43" Rate="7.5" />
+			<Value SlotType="6" ForceEffectIndex="5" ForceValue="8" ForceValueType="1" Grade="2" Tier="43" Rate="6.135" />
+			<Value SlotType="6" ForceEffectIndex="5" ForceValue="9" ForceValueType="1" Grade="3" Tier="43" Rate="1.2" />
+			<Value SlotType="6" ForceEffectIndex="5" ForceValue="11" ForceValueType="1" Grade="4" Tier="43" Rate="0.15" />
+			<Value SlotType="6" ForceEffectIndex="5" ForceValue="14" ForceValueType="1" Grade="5" Tier="43" Rate="0.015" />
+			<Value SlotType="6" ForceEffectIndex="8" ForceValue="1" ForceValueType="2" Grade="1" Tier="42" Rate="4.978" />
+			<Value SlotType="6" ForceEffectIndex="8" ForceValue="2" ForceValueType="2" Grade="2" Tier="42" Rate="0.02" />
+			<Value SlotType="6" ForceEffectIndex="8" ForceValue="4" ForceValueType="2" Grade="3" Tier="42" Rate="0.002" />
+		</Pool>
+		<Pool ID="27">
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="2" ForceValueType="1" Grade="1" Tier="54" Rate="1.25" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="3" ForceValueType="1" Grade="2" Tier="54" Rate="2.5" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="4" ForceValueType="1" Grade="3" Tier="54" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="5" ForceValueType="1" Grade="4" Tier="54" Rate="5" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="6" ForceValueType="1" Grade="5" Tier="54" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="7" ForceValueType="1" Grade="6" Tier="54" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="8" ForceValueType="1" Grade="7" Tier="54" Rate="2.5" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="11" ForceValueType="1" Grade="8" Tier="54" Rate="1.25" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="15" ForceValueType="1" Grade="9" Tier="54" Rate="0.75" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="21" ForceValueType="1" Grade="10" Tier="54" Rate="0.5" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="2" ForceValueType="1" Grade="1" Tier="54" Rate="1" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="3" ForceValueType="1" Grade="2" Tier="54" Rate="2" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="4" ForceValueType="1" Grade="3" Tier="54" Rate="3" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="5" ForceValueType="1" Grade="4" Tier="54" Rate="4" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="6" ForceValueType="1" Grade="5" Tier="54" Rate="3" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="7" ForceValueType="1" Grade="6" Tier="54" Rate="3" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="8" ForceValueType="1" Grade="7" Tier="54" Rate="2" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="11" ForceValueType="1" Grade="8" Tier="54" Rate="1" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="15" ForceValueType="1" Grade="9" Tier="54" Rate="0.6" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="21" ForceValueType="1" Grade="10" Tier="54" Rate="0.4" />
+			<Value SlotType="7" ForceEffectIndex="73" ForceValue="4" ForceValueType="1" Grade="1" Tier="43" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="73" ForceValue="5" ForceValueType="1" Grade="2" Tier="43" Rate="6.45" />
+			<Value SlotType="7" ForceEffectIndex="73" ForceValue="6" ForceValueType="1" Grade="3" Tier="43" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="73" ForceValue="8" ForceValueType="1" Grade="4" Tier="43" Rate="0.75" />
+			<Value SlotType="7" ForceEffectIndex="73" ForceValue="11" ForceValueType="1" Grade="5" Tier="43" Rate="0.3" />
+			<Value SlotType="7" ForceEffectIndex="81" ForceValue="4" ForceValueType="1" Grade="1" Tier="43" Rate="5" />
+			<Value SlotType="7" ForceEffectIndex="81" ForceValue="5" ForceValueType="1" Grade="2" Tier="43" Rate="8.6" />
+			<Value SlotType="7" ForceEffectIndex="81" ForceValue="6" ForceValueType="1" Grade="3" Tier="43" Rate="5" />
+			<Value SlotType="7" ForceEffectIndex="81" ForceValue="8" ForceValueType="1" Grade="4" Tier="43" Rate="1" />
+			<Value SlotType="7" ForceEffectIndex="81" ForceValue="11" ForceValueType="1" Grade="5" Tier="43" Rate="0.4" />
+			<Value SlotType="7" ForceEffectIndex="139" ForceValue="5" ForceValueType="1" Grade="1" Tier="23" Rate="7.5" />
+			<Value SlotType="7" ForceEffectIndex="139" ForceValue="6" ForceValueType="1" Grade="2" Tier="23" Rate="6.135" />
+			<Value SlotType="7" ForceEffectIndex="139" ForceValue="7" ForceValueType="1" Grade="3" Tier="23" Rate="1.2" />
+			<Value SlotType="7" ForceEffectIndex="139" ForceValue="9" ForceValueType="1" Grade="4" Tier="23" Rate="0.15" />
+			<Value SlotType="7" ForceEffectIndex="139" ForceValue="13" ForceValueType="1" Grade="5" Tier="23" Rate="0.015" />
+			<Value SlotType="7" ForceEffectIndex="74" ForceValue="5" ForceValueType="1" Grade="1" Tier="23" Rate="2.75" />
+			<Value SlotType="7" ForceEffectIndex="74" ForceValue="6" ForceValueType="1" Grade="2" Tier="23" Rate="2.028" />
+			<Value SlotType="7" ForceEffectIndex="74" ForceValue="7" ForceValueType="1" Grade="3" Tier="23" Rate="0.2" />
+			<Value SlotType="7" ForceEffectIndex="74" ForceValue="9" ForceValueType="1" Grade="4" Tier="23" Rate="0.02" />
+			<Value SlotType="7" ForceEffectIndex="74" ForceValue="13" ForceValueType="1" Grade="5" Tier="23" Rate="0.002" />
+		</Pool>
+		<Pool ID="28">
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="8" ForceValueType="1" Grade="1" Tier="54" Rate="1" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="12" ForceValueType="1" Grade="2" Tier="54" Rate="2" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="16" ForceValueType="1" Grade="3" Tier="54" Rate="3" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="20" ForceValueType="1" Grade="4" Tier="54" Rate="4" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="24" ForceValueType="1" Grade="5" Tier="54" Rate="3" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="28" ForceValueType="1" Grade="6" Tier="54" Rate="3" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="32" ForceValueType="1" Grade="7" Tier="54" Rate="2" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="44" ForceValueType="1" Grade="8" Tier="54" Rate="1" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="60" ForceValueType="1" Grade="9" Tier="54" Rate="0.6" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="84" ForceValueType="1" Grade="10" Tier="54" Rate="0.4" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="8" ForceValueType="1" Grade="1" Tier="54" Rate="1.25" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="12" ForceValueType="1" Grade="2" Tier="54" Rate="2.5" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="16" ForceValueType="1" Grade="3" Tier="54" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="20" ForceValueType="1" Grade="4" Tier="54" Rate="5" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="24" ForceValueType="1" Grade="5" Tier="54" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="28" ForceValueType="1" Grade="6" Tier="54" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="32" ForceValueType="1" Grade="7" Tier="54" Rate="2.5" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="44" ForceValueType="1" Grade="8" Tier="54" Rate="1.25" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="60" ForceValueType="1" Grade="9" Tier="54" Rate="0.75" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="84" ForceValueType="1" Grade="10" Tier="54" Rate="0.5" />
+			<Value SlotType="7" ForceEffectIndex="1" ForceValue="25" ForceValueType="1" Grade="1" Tier="33" Rate="6.25" />
+			<Value SlotType="7" ForceEffectIndex="1" ForceValue="30" ForceValueType="1" Grade="2" Tier="33" Rate="10.75" />
+			<Value SlotType="7" ForceEffectIndex="1" ForceValue="35" ForceValueType="1" Grade="3" Tier="33" Rate="6.25" />
+			<Value SlotType="7" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="4" Tier="33" Rate="1.25" />
+			<Value SlotType="7" ForceEffectIndex="1" ForceValue="50" ForceValueType="1" Grade="5" Tier="33" Rate="0.5" />
+			<Value SlotType="7" ForceEffectIndex="39" ForceValue="3" ForceValueType="1" Grade="1" Tier="33" Rate="5" />
+			<Value SlotType="7" ForceEffectIndex="39" ForceValue="4" ForceValueType="1" Grade="2" Tier="33" Rate="8.6" />
+			<Value SlotType="7" ForceEffectIndex="39" ForceValue="6" ForceValueType="1" Grade="3" Tier="33" Rate="5" />
+			<Value SlotType="7" ForceEffectIndex="39" ForceValue="9" ForceValueType="1" Grade="4" Tier="33" Rate="1" />
+			<Value SlotType="7" ForceEffectIndex="39" ForceValue="12" ForceValueType="1" Grade="5" Tier="33" Rate="0.4" />
+			<Value SlotType="7" ForceEffectIndex="98" ForceValue="2" ForceValueType="2" Grade="1" Tier="22" Rate="4.978" />
+			<Value SlotType="7" ForceEffectIndex="98" ForceValue="3" ForceValueType="2" Grade="2" Tier="22" Rate="0.02" />
+			<Value SlotType="7" ForceEffectIndex="98" ForceValue="4" ForceValueType="2" Grade="3" Tier="22" Rate="0.002" />
+			<Value SlotType="7" ForceEffectIndex="127" ForceValue="2" ForceValueType="2" Grade="1" Tier="22" Rate="4.978" />
+			<Value SlotType="7" ForceEffectIndex="127" ForceValue="3" ForceValueType="2" Grade="2" Tier="22" Rate="0.02" />
+			<Value SlotType="7" ForceEffectIndex="127" ForceValue="4" ForceValueType="2" Grade="3" Tier="22" Rate="0.002" />
+		</Pool>
+		<Pool ID="29">
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="4" ForceValueType="1" Grade="1" Tier="54" Rate="1" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="5" ForceValueType="1" Grade="2" Tier="54" Rate="2" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="6" ForceValueType="1" Grade="3" Tier="54" Rate="3" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="7" ForceValueType="1" Grade="4" Tier="54" Rate="4" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="8" ForceValueType="1" Grade="5" Tier="54" Rate="3" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="9" ForceValueType="1" Grade="6" Tier="54" Rate="3" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="10" ForceValueType="1" Grade="7" Tier="54" Rate="2" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="13" ForceValueType="1" Grade="8" Tier="54" Rate="1" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="17" ForceValueType="1" Grade="9" Tier="54" Rate="0.6" />
+			<Value SlotType="7" ForceEffectIndex="71" ForceValue="24" ForceValueType="1" Grade="10" Tier="54" Rate="0.4" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="4" ForceValueType="1" Grade="1" Tier="54" Rate="1.25" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="5" ForceValueType="1" Grade="2" Tier="54" Rate="2.5" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="6" ForceValueType="1" Grade="3" Tier="54" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="7" ForceValueType="1" Grade="4" Tier="54" Rate="5" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="8" ForceValueType="1" Grade="5" Tier="54" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="9" ForceValueType="1" Grade="6" Tier="54" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="10" ForceValueType="1" Grade="7" Tier="54" Rate="2.5" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="13" ForceValueType="1" Grade="8" Tier="54" Rate="1.25" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="17" ForceValueType="1" Grade="9" Tier="54" Rate="0.75" />
+			<Value SlotType="7" ForceEffectIndex="75" ForceValue="24" ForceValueType="1" Grade="10" Tier="54" Rate="0.5" />
+			<Value SlotType="7" ForceEffectIndex="73" ForceValue="3" ForceValueType="1" Grade="1" Tier="33" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="73" ForceValue="4" ForceValueType="1" Grade="2" Tier="33" Rate="6.45" />
+			<Value SlotType="7" ForceEffectIndex="73" ForceValue="6" ForceValueType="1" Grade="3" Tier="33" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="73" ForceValue="9" ForceValueType="1" Grade="4" Tier="33" Rate="0.75" />
+			<Value SlotType="7" ForceEffectIndex="73" ForceValue="12" ForceValueType="1" Grade="5" Tier="33" Rate="0.3" />
+			<Value SlotType="7" ForceEffectIndex="81" ForceValue="3" ForceValueType="1" Grade="1" Tier="33" Rate="5" />
+			<Value SlotType="7" ForceEffectIndex="81" ForceValue="4" ForceValueType="1" Grade="2" Tier="33" Rate="8.6" />
+			<Value SlotType="7" ForceEffectIndex="81" ForceValue="6" ForceValueType="1" Grade="3" Tier="33" Rate="5" />
+			<Value SlotType="7" ForceEffectIndex="81" ForceValue="9" ForceValueType="1" Grade="4" Tier="33" Rate="1" />
+			<Value SlotType="7" ForceEffectIndex="81" ForceValue="12" ForceValueType="1" Grade="5" Tier="33" Rate="0.4" />
+			<Value SlotType="7" ForceEffectIndex="5" ForceValue="4" ForceValueType="1" Grade="1" Tier="23" Rate="7.5" />
+			<Value SlotType="7" ForceEffectIndex="5" ForceValue="5" ForceValueType="1" Grade="2" Tier="23" Rate="6.135" />
+			<Value SlotType="7" ForceEffectIndex="5" ForceValue="7" ForceValueType="1" Grade="3" Tier="23" Rate="1.2" />
+			<Value SlotType="7" ForceEffectIndex="5" ForceValue="10" ForceValueType="1" Grade="4" Tier="23" Rate="0.15" />
+			<Value SlotType="7" ForceEffectIndex="5" ForceValue="13" ForceValueType="1" Grade="5" Tier="23" Rate="0.015" />
+			<Value SlotType="7" ForceEffectIndex="113" ForceValue="4" ForceValueType="1" Grade="1" Tier="23" Rate="2.75" />
+			<Value SlotType="7" ForceEffectIndex="113" ForceValue="5" ForceValueType="1" Grade="2" Tier="23" Rate="2.028" />
+			<Value SlotType="7" ForceEffectIndex="113" ForceValue="7" ForceValueType="1" Grade="3" Tier="23" Rate="0.2" />
+			<Value SlotType="7" ForceEffectIndex="113" ForceValue="10" ForceValueType="1" Grade="4" Tier="23" Rate="0.02" />
+			<Value SlotType="7" ForceEffectIndex="113" ForceValue="13" ForceValueType="1" Grade="5" Tier="23" Rate="0.002" />
+		</Pool>
+		<Pool ID="30">
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="14" ForceValueType="1" Grade="1" Tier="54" Rate="1" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="18" ForceValueType="1" Grade="2" Tier="54" Rate="2" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="22" ForceValueType="1" Grade="3" Tier="54" Rate="3" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="26" ForceValueType="1" Grade="4" Tier="54" Rate="4" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="30" ForceValueType="1" Grade="5" Tier="54" Rate="3" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="34" ForceValueType="1" Grade="6" Tier="54" Rate="3" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="38" ForceValueType="1" Grade="7" Tier="54" Rate="2" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="50" ForceValueType="1" Grade="8" Tier="54" Rate="1" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="66" ForceValueType="1" Grade="9" Tier="54" Rate="0.6" />
+			<Value SlotType="7" ForceEffectIndex="6" ForceValue="94" ForceValueType="1" Grade="10" Tier="54" Rate="0.4" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="14" ForceValueType="1" Grade="1" Tier="54" Rate="1.25" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="18" ForceValueType="1" Grade="2" Tier="54" Rate="2.5" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="22" ForceValueType="1" Grade="3" Tier="54" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="26" ForceValueType="1" Grade="4" Tier="54" Rate="5" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="30" ForceValueType="1" Grade="5" Tier="54" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="34" ForceValueType="1" Grade="6" Tier="54" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="38" ForceValueType="1" Grade="7" Tier="54" Rate="2.5" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="50" ForceValueType="1" Grade="8" Tier="54" Rate="1.25" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="66" ForceValueType="1" Grade="9" Tier="54" Rate="0.75" />
+			<Value SlotType="7" ForceEffectIndex="7" ForceValue="94" ForceValueType="1" Grade="10" Tier="54" Rate="0.5" />
+			<Value SlotType="7" ForceEffectIndex="1" ForceValue="35" ForceValueType="1" Grade="1" Tier="33" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="2" Tier="33" Rate="6.45" />
+			<Value SlotType="7" ForceEffectIndex="1" ForceValue="45" ForceValueType="1" Grade="3" Tier="33" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="1" ForceValue="50" ForceValueType="1" Grade="4" Tier="33" Rate="0.75" />
+			<Value SlotType="7" ForceEffectIndex="1" ForceValue="60" ForceValueType="1" Grade="5" Tier="33" Rate="0.3" />
+			<Value SlotType="7" ForceEffectIndex="39" ForceValue="4" ForceValueType="1" Grade="1" Tier="33" Rate="5" />
+			<Value SlotType="7" ForceEffectIndex="39" ForceValue="5" ForceValueType="1" Grade="2" Tier="33" Rate="8.6" />
+			<Value SlotType="7" ForceEffectIndex="39" ForceValue="7" ForceValueType="1" Grade="3" Tier="33" Rate="5" />
+			<Value SlotType="7" ForceEffectIndex="39" ForceValue="10" ForceValueType="1" Grade="4" Tier="33" Rate="1" />
+			<Value SlotType="7" ForceEffectIndex="39" ForceValue="13" ForceValueType="1" Grade="5" Tier="33" Rate="0.4" />
+			<Value SlotType="7" ForceEffectIndex="78" ForceValue="3" ForceValueType="1" Grade="1" Tier="23" Rate="7.5" />
+			<Value SlotType="7" ForceEffectIndex="78" ForceValue="4" ForceValueType="1" Grade="2" Tier="23" Rate="6.135" />
+			<Value SlotType="7" ForceEffectIndex="78" ForceValue="6" ForceValueType="1" Grade="3" Tier="23" Rate="1.2" />
+			<Value SlotType="7" ForceEffectIndex="78" ForceValue="9" ForceValueType="1" Grade="4" Tier="23" Rate="0.15" />
+			<Value SlotType="7" ForceEffectIndex="78" ForceValue="12" ForceValueType="1" Grade="5" Tier="23" Rate="0.015" />
+			<Value SlotType="7" ForceEffectIndex="80" ForceValue="7" ForceValueType="1" Grade="1" Tier="23" Rate="2.75" />
+			<Value SlotType="7" ForceEffectIndex="80" ForceValue="8" ForceValueType="1" Grade="2" Tier="23" Rate="2.028" />
+			<Value SlotType="7" ForceEffectIndex="80" ForceValue="10" ForceValueType="1" Grade="3" Tier="23" Rate="0.2" />
+			<Value SlotType="7" ForceEffectIndex="80" ForceValue="13" ForceValueType="1" Grade="4" Tier="23" Rate="0.02" />
+			<Value SlotType="7" ForceEffectIndex="80" ForceValue="16" ForceValueType="1" Grade="5" Tier="23" Rate="0.002" />
+		</Pool>
+		<Pool ID="31">
+			<Value SlotType="7" ForceEffectIndex="36" ForceValue="8" ForceValueType="1" Grade="1" Tier="54" Rate="1.25" />
+			<Value SlotType="7" ForceEffectIndex="36" ForceValue="12" ForceValueType="1" Grade="2" Tier="54" Rate="2.5" />
+			<Value SlotType="7" ForceEffectIndex="36" ForceValue="16" ForceValueType="1" Grade="3" Tier="54" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="36" ForceValue="20" ForceValueType="1" Grade="4" Tier="54" Rate="5" />
+			<Value SlotType="7" ForceEffectIndex="36" ForceValue="24" ForceValueType="1" Grade="5" Tier="54" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="36" ForceValue="28" ForceValueType="1" Grade="6" Tier="54" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="36" ForceValue="32" ForceValueType="1" Grade="7" Tier="54" Rate="2.5" />
+			<Value SlotType="7" ForceEffectIndex="36" ForceValue="44" ForceValueType="1" Grade="8" Tier="54" Rate="1.25" />
+			<Value SlotType="7" ForceEffectIndex="36" ForceValue="60" ForceValueType="1" Grade="9" Tier="54" Rate="0.75" />
+			<Value SlotType="7" ForceEffectIndex="36" ForceValue="84" ForceValueType="1" Grade="10" Tier="54" Rate="0.5" />
+			<Value SlotType="7" ForceEffectIndex="79" ForceValue="25" ForceValueType="1" Grade="1" Tier="54" Rate="1" />
+			<Value SlotType="7" ForceEffectIndex="79" ForceValue="26" ForceValueType="1" Grade="2" Tier="54" Rate="2" />
+			<Value SlotType="7" ForceEffectIndex="79" ForceValue="27" ForceValueType="1" Grade="3" Tier="54" Rate="3" />
+			<Value SlotType="7" ForceEffectIndex="79" ForceValue="28" ForceValueType="1" Grade="4" Tier="54" Rate="4" />
+			<Value SlotType="7" ForceEffectIndex="79" ForceValue="29" ForceValueType="1" Grade="5" Tier="54" Rate="3" />
+			<Value SlotType="7" ForceEffectIndex="79" ForceValue="30" ForceValueType="1" Grade="6" Tier="54" Rate="3" />
+			<Value SlotType="7" ForceEffectIndex="79" ForceValue="31" ForceValueType="1" Grade="7" Tier="54" Rate="2" />
+			<Value SlotType="7" ForceEffectIndex="79" ForceValue="33" ForceValueType="1" Grade="8" Tier="54" Rate="1" />
+			<Value SlotType="7" ForceEffectIndex="79" ForceValue="36" ForceValueType="1" Grade="9" Tier="54" Rate="0.6" />
+			<Value SlotType="7" ForceEffectIndex="79" ForceValue="40" ForceValueType="1" Grade="10" Tier="54" Rate="0.4" />
+			<Value SlotType="7" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="1" Tier="33" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="1" ForceValue="45" ForceValueType="1" Grade="2" Tier="33" Rate="6.45" />
+			<Value SlotType="7" ForceEffectIndex="1" ForceValue="50" ForceValueType="1" Grade="3" Tier="33" Rate="3.75" />
+			<Value SlotType="7" ForceEffectIndex="1" ForceValue="55" ForceValueType="1" Grade="4" Tier="33" Rate="0.75" />
+			<Value SlotType="7" ForceEffectIndex="1" ForceValue="65" ForceValueType="1" Grade="5" Tier="33" Rate="0.3" />
+			<Value SlotType="7" ForceEffectIndex="132" ForceValue="1" ForceValueType="2" Grade="1" Tier="33" Rate="5" />
+			<Value SlotType="7" ForceEffectIndex="132" ForceValue="2" ForceValueType="2" Grade="2" Tier="33" Rate="8.6" />
+			<Value SlotType="7" ForceEffectIndex="132" ForceValue="3" ForceValueType="2" Grade="3" Tier="33" Rate="5" />
+			<Value SlotType="7" ForceEffectIndex="132" ForceValue="5" ForceValueType="2" Grade="4" Tier="33" Rate="1" />
+			<Value SlotType="7" ForceEffectIndex="132" ForceValue="7" ForceValueType="2" Grade="5" Tier="33" Rate="0.4" />
+			<Value SlotType="7" ForceEffectIndex="5" ForceValue="10" ForceValueType="1" Grade="1" Tier="23" Rate="7.5" />
+			<Value SlotType="7" ForceEffectIndex="5" ForceValue="11" ForceValueType="1" Grade="2" Tier="23" Rate="6.135" />
+			<Value SlotType="7" ForceEffectIndex="5" ForceValue="13" ForceValueType="1" Grade="3" Tier="23" Rate="1.2" />
+			<Value SlotType="7" ForceEffectIndex="5" ForceValue="16" ForceValueType="1" Grade="4" Tier="23" Rate="0.15" />
+			<Value SlotType="7" ForceEffectIndex="5" ForceValue="19" ForceValueType="1" Grade="5" Tier="23" Rate="0.015" />
+			<Value SlotType="7" ForceEffectIndex="8" ForceValue="2" ForceValueType="2" Grade="1" Tier="22" Rate="4.978" />
+			<Value SlotType="7" ForceEffectIndex="8" ForceValue="3" ForceValueType="2" Grade="2" Tier="22" Rate="0.02" />
+			<Value SlotType="7" ForceEffectIndex="8" ForceValue="6" ForceValueType="2" Grade="3" Tier="22" Rate="0.002" />
+		</Pool>
+		<Pool ID="32">
+			<Value SlotType="8" ForceEffectIndex="132" ForceValue="1" ForceValueType="2" Grade="1" Tier="23" Rate="6" />
+			<Value SlotType="8" ForceEffectIndex="132" ForceValue="2" ForceValueType="2" Grade="2" Tier="23" Rate="11.18" />
+			<Value SlotType="8" ForceEffectIndex="132" ForceValue="3" ForceValueType="2" Grade="3" Tier="23" Rate="2.6" />
+			<Value SlotType="8" ForceEffectIndex="132" ForceValue="5" ForceValueType="2" Grade="4" Tier="23" Rate="0.2" />
+			<Value SlotType="8" ForceEffectIndex="132" ForceValue="8" ForceValueType="2" Grade="5" Tier="23" Rate="0.02" />
+			<Value SlotType="8" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="1" Tier="23" Rate="10" />
+			<Value SlotType="8" ForceEffectIndex="1" ForceValue="80" ForceValueType="1" Grade="2" Tier="23" Rate="20.7" />
+			<Value SlotType="8" ForceEffectIndex="1" ForceValue="120" ForceValueType="1" Grade="3" Tier="23" Rate="8" />
+			<Value SlotType="8" ForceEffectIndex="1" ForceValue="180" ForceValueType="1" Grade="4" Tier="23" Rate="1.2" />
+			<Value SlotType="8" ForceEffectIndex="1" ForceValue="300" ForceValueType="1" Grade="5" Tier="23" Rate="0.1" />
+			<Value SlotType="8" ForceEffectIndex="5" ForceValue="10" ForceValueType="1" Grade="1" Tier="23" Rate="8.7" />
+			<Value SlotType="8" ForceEffectIndex="5" ForceValue="15" ForceValueType="1" Grade="2" Tier="23" Rate="16.14" />
+			<Value SlotType="8" ForceEffectIndex="5" ForceValue="20" ForceValueType="1" Grade="3" Tier="23" Rate="4.5" />
+			<Value SlotType="8" ForceEffectIndex="5" ForceValue="35" ForceValueType="1" Grade="4" Tier="23" Rate="0.6" />
+			<Value SlotType="8" ForceEffectIndex="5" ForceValue="80" ForceValueType="1" Grade="5" Tier="23" Rate="0.06" />
+			<Value SlotType="8" ForceEffectIndex="113" ForceValue="10" ForceValueType="1" Grade="1" Tier="13" Rate="2.148" />
+			<Value SlotType="8" ForceEffectIndex="113" ForceValue="15" ForceValueType="1" Grade="2" Tier="13" Rate="1.75" />
+			<Value SlotType="8" ForceEffectIndex="113" ForceValue="20" ForceValueType="1" Grade="3" Tier="13" Rate="1" />
+			<Value SlotType="8" ForceEffectIndex="113" ForceValue="30" ForceValueType="1" Grade="4" Tier="13" Rate="0.1" />
+			<Value SlotType="8" ForceEffectIndex="113" ForceValue="70" ForceValueType="1" Grade="5" Tier="13" Rate="0.002" />
+			<Value SlotType="8" ForceEffectIndex="8" ForceValue="3" ForceValueType="2" Grade="1" Tier="13" Rate="3.639" />
+			<Value SlotType="8" ForceEffectIndex="8" ForceValue="4" ForceValueType="2" Grade="2" Tier="13" Rate="1.25" />
+			<Value SlotType="8" ForceEffectIndex="8" ForceValue="5" ForceValueType="2" Grade="3" Tier="13" Rate="0.1" />
+			<Value SlotType="8" ForceEffectIndex="8" ForceValue="8" ForceValueType="2" Grade="4" Tier="13" Rate="0.01" />
+			<Value SlotType="8" ForceEffectIndex="8" ForceValue="13" ForceValueType="2" Grade="5" Tier="13" Rate="0.001" />
+		</Pool>
+		<Pool ID="33">
+			<Value SlotType="9" ForceEffectIndex="194" ForceValue="2" ForceValueType="1" Grade="1" Tier="53" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="194" ForceValue="3" ForceValueType="1" Grade="2" Tier="53" Rate="24.799" />
+			<Value SlotType="9" ForceEffectIndex="194" ForceValue="6" ForceValueType="1" Grade="3" Tier="53" Rate="5" />
+			<Value SlotType="9" ForceEffectIndex="194" ForceValue="10" ForceValueType="1" Grade="4" Tier="53" Rate="0.2" />
+			<Value SlotType="9" ForceEffectIndex="194" ForceValue="14" ForceValueType="1" Grade="5" Tier="53" Rate="0.001" />
+			<Value SlotType="9" ForceEffectIndex="156" ForceValue="2" ForceValueType="1" Grade="1" Tier="53" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="156" ForceValue="3" ForceValueType="1" Grade="2" Tier="53" Rate="24.799" />
+			<Value SlotType="9" ForceEffectIndex="156" ForceValue="6" ForceValueType="1" Grade="3" Tier="53" Rate="5" />
+			<Value SlotType="9" ForceEffectIndex="156" ForceValue="10" ForceValueType="1" Grade="4" Tier="53" Rate="0.2" />
+			<Value SlotType="9" ForceEffectIndex="156" ForceValue="14" ForceValueType="1" Grade="5" Tier="53" Rate="0.001" />
+		</Pool>
+		<Pool ID="34">
+			<Value SlotType="9" ForceEffectIndex="190" ForceValue="10" ForceValueType="1" Grade="1" Tier="53" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="190" ForceValue="20" ForceValueType="1" Grade="2" Tier="53" Rate="24.899" />
+			<Value SlotType="9" ForceEffectIndex="190" ForceValue="35" ForceValueType="1" Grade="3" Tier="53" Rate="5" />
+			<Value SlotType="9" ForceEffectIndex="190" ForceValue="50" ForceValueType="1" Grade="4" Tier="53" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="190" ForceValue="100" ForceValueType="1" Grade="5" Tier="53" Rate="0.001" />
+			<Value SlotType="9" ForceEffectIndex="191" ForceValue="10" ForceValueType="1" Grade="1" Tier="53" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="191" ForceValue="20" ForceValueType="1" Grade="2" Tier="53" Rate="24.899" />
+			<Value SlotType="9" ForceEffectIndex="191" ForceValue="35" ForceValueType="1" Grade="3" Tier="53" Rate="5" />
+			<Value SlotType="9" ForceEffectIndex="191" ForceValue="50" ForceValueType="1" Grade="4" Tier="53" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="191" ForceValue="100" ForceValueType="1" Grade="5" Tier="53" Rate="0.001" />
+		</Pool>
+		<Pool ID="35">
+			<Value SlotType="9" ForceEffectIndex="155" ForceValue="4" ForceValueType="1" Grade="1" Tier="43" Rate="22" />
+			<Value SlotType="9" ForceEffectIndex="155" ForceValue="7" ForceValueType="1" Grade="2" Tier="43" Rate="26.899" />
+			<Value SlotType="9" ForceEffectIndex="155" ForceValue="10" ForceValueType="1" Grade="3" Tier="43" Rate="1" />
+			<Value SlotType="9" ForceEffectIndex="155" ForceValue="15" ForceValueType="1" Grade="4" Tier="43" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="155" ForceValue="24" ForceValueType="1" Grade="5" Tier="43" Rate="0.001" />
+			<Value SlotType="9" ForceEffectIndex="189" ForceValue="4" ForceValueType="1" Grade="1" Tier="43" Rate="22" />
+			<Value SlotType="9" ForceEffectIndex="189" ForceValue="7" ForceValueType="1" Grade="2" Tier="43" Rate="26.899" />
+			<Value SlotType="9" ForceEffectIndex="189" ForceValue="10" ForceValueType="1" Grade="3" Tier="43" Rate="1" />
+			<Value SlotType="9" ForceEffectIndex="189" ForceValue="15" ForceValueType="1" Grade="4" Tier="43" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="189" ForceValue="24" ForceValueType="1" Grade="5" Tier="43" Rate="0.001" />
+		</Pool>
+		<Pool ID="36">
+			<Value SlotType="9" ForceEffectIndex="157" ForceValue="3" ForceValueType="1" Grade="1" Tier="53" Rate="22" />
+			<Value SlotType="9" ForceEffectIndex="157" ForceValue="5" ForceValueType="1" Grade="2" Tier="53" Rate="26.899" />
+			<Value SlotType="9" ForceEffectIndex="157" ForceValue="8" ForceValueType="1" Grade="3" Tier="53" Rate="1" />
+			<Value SlotType="9" ForceEffectIndex="157" ForceValue="12" ForceValueType="1" Grade="4" Tier="53" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="157" ForceValue="20" ForceValueType="1" Grade="5" Tier="53" Rate="0.001" />
+			<Value SlotType="9" ForceEffectIndex="195" ForceValue="3" ForceValueType="1" Grade="1" Tier="53" Rate="22" />
+			<Value SlotType="9" ForceEffectIndex="195" ForceValue="5" ForceValueType="1" Grade="2" Tier="53" Rate="26.899" />
+			<Value SlotType="9" ForceEffectIndex="195" ForceValue="8" ForceValueType="1" Grade="3" Tier="53" Rate="1" />
+			<Value SlotType="9" ForceEffectIndex="195" ForceValue="12" ForceValueType="1" Grade="4" Tier="53" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="195" ForceValue="20" ForceValueType="1" Grade="5" Tier="53" Rate="0.001" />
+		</Pool>
+		<Pool ID="37">
+			<Value SlotType="9" ForceEffectIndex="216" ForceValue="2" ForceValueType="1" Grade="1" Tier="63" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="216" ForceValue="3" ForceValueType="1" Grade="2" Tier="63" Rate="24.799" />
+			<Value SlotType="9" ForceEffectIndex="216" ForceValue="6" ForceValueType="1" Grade="3" Tier="63" Rate="5" />
+			<Value SlotType="9" ForceEffectIndex="216" ForceValue="10" ForceValueType="1" Grade="4" Tier="63" Rate="0.2" />
+			<Value SlotType="9" ForceEffectIndex="216" ForceValue="16" ForceValueType="1" Grade="5" Tier="63" Rate="0.001" />
+			<Value SlotType="9" ForceEffectIndex="217" ForceValue="2" ForceValueType="1" Grade="1" Tier="63" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="217" ForceValue="3" ForceValueType="1" Grade="2" Tier="63" Rate="24.799" />
+			<Value SlotType="9" ForceEffectIndex="217" ForceValue="6" ForceValueType="1" Grade="3" Tier="63" Rate="5" />
+			<Value SlotType="9" ForceEffectIndex="217" ForceValue="10" ForceValueType="1" Grade="4" Tier="63" Rate="0.2" />
+			<Value SlotType="9" ForceEffectIndex="217" ForceValue="16" ForceValueType="1" Grade="5" Tier="63" Rate="0.001" />
+		</Pool>
+		<Pool ID="38">
+			<Value SlotType="9" ForceEffectIndex="182" ForceValue="10" ForceValueType="1" Grade="1" Tier="63" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="182" ForceValue="20" ForceValueType="1" Grade="2" Tier="63" Rate="24.899" />
+			<Value SlotType="9" ForceEffectIndex="182" ForceValue="35" ForceValueType="1" Grade="3" Tier="63" Rate="5" />
+			<Value SlotType="9" ForceEffectIndex="182" ForceValue="50" ForceValueType="1" Grade="4" Tier="63" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="182" ForceValue="100" ForceValueType="1" Grade="5" Tier="63" Rate="0.001" />
+			<Value SlotType="9" ForceEffectIndex="183" ForceValue="10" ForceValueType="1" Grade="1" Tier="63" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="183" ForceValue="20" ForceValueType="1" Grade="2" Tier="63" Rate="24.899" />
+			<Value SlotType="9" ForceEffectIndex="183" ForceValue="35" ForceValueType="1" Grade="3" Tier="63" Rate="5" />
+			<Value SlotType="9" ForceEffectIndex="183" ForceValue="50" ForceValueType="1" Grade="4" Tier="63" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="183" ForceValue="100" ForceValueType="1" Grade="5" Tier="63" Rate="0.001" />
+		</Pool>
+		<Pool ID="39">
+			<Value SlotType="9" ForceEffectIndex="180" ForceValue="4" ForceValueType="1" Grade="1" Tier="53" Rate="22" />
+			<Value SlotType="9" ForceEffectIndex="180" ForceValue="6" ForceValueType="1" Grade="2" Tier="53" Rate="26.899" />
+			<Value SlotType="9" ForceEffectIndex="180" ForceValue="9" ForceValueType="1" Grade="3" Tier="53" Rate="1" />
+			<Value SlotType="9" ForceEffectIndex="180" ForceValue="13" ForceValueType="1" Grade="4" Tier="53" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="180" ForceValue="22" ForceValueType="1" Grade="5" Tier="53" Rate="0.001" />
+			<Value SlotType="9" ForceEffectIndex="181" ForceValue="4" ForceValueType="1" Grade="1" Tier="53" Rate="22" />
+			<Value SlotType="9" ForceEffectIndex="181" ForceValue="6" ForceValueType="1" Grade="2" Tier="53" Rate="26.899" />
+			<Value SlotType="9" ForceEffectIndex="181" ForceValue="9" ForceValueType="1" Grade="3" Tier="53" Rate="1" />
+			<Value SlotType="9" ForceEffectIndex="181" ForceValue="13" ForceValueType="1" Grade="4" Tier="53" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="181" ForceValue="22" ForceValueType="1" Grade="5" Tier="53" Rate="0.001" />
+		</Pool>
+		<Pool ID="40">
+			<Value SlotType="9" ForceEffectIndex="208" ForceValue="3" ForceValueType="1" Grade="1" Tier="43" Rate="22" />
+			<Value SlotType="9" ForceEffectIndex="208" ForceValue="5" ForceValueType="1" Grade="2" Tier="43" Rate="26.899" />
+			<Value SlotType="9" ForceEffectIndex="208" ForceValue="8" ForceValueType="1" Grade="3" Tier="43" Rate="1" />
+			<Value SlotType="9" ForceEffectIndex="208" ForceValue="12" ForceValueType="1" Grade="4" Tier="43" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="208" ForceValue="20" ForceValueType="1" Grade="5" Tier="43" Rate="0.001" />
+			<Value SlotType="9" ForceEffectIndex="209" ForceValue="3" ForceValueType="1" Grade="1" Tier="43" Rate="22" />
+			<Value SlotType="9" ForceEffectIndex="209" ForceValue="5" ForceValueType="1" Grade="2" Tier="43" Rate="26.899" />
+			<Value SlotType="9" ForceEffectIndex="209" ForceValue="8" ForceValueType="1" Grade="3" Tier="43" Rate="1" />
+			<Value SlotType="9" ForceEffectIndex="209" ForceValue="12" ForceValueType="1" Grade="4" Tier="43" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="209" ForceValue="20" ForceValueType="1" Grade="5" Tier="43" Rate="0.001" />
+		</Pool>
+		<Pool ID="41">
+			<Value SlotType="9" ForceEffectIndex="132" ForceValue="1" ForceValueType="2" Grade="1" Tier="54" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="132" ForceValue="2" ForceValueType="2" Grade="2" Tier="54" Rate="25.839" />
+			<Value SlotType="9" ForceEffectIndex="132" ForceValue="3" ForceValueType="2" Grade="3" Tier="54" Rate="25" />
+			<Value SlotType="9" ForceEffectIndex="132" ForceValue="4" ForceValueType="2" Grade="4" Tier="54" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="132" ForceValue="5" ForceValueType="2" Grade="5" Tier="54" Rate="8" />
+			<Value SlotType="9" ForceEffectIndex="132" ForceValue="6" ForceValueType="2" Grade="6" Tier="54" Rate="1" />
+			<Value SlotType="9" ForceEffectIndex="132" ForceValue="7" ForceValueType="2" Grade="7" Tier="54" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="132" ForceValue="8" ForceValueType="2" Grade="8" Tier="54" Rate="0.05" />
+			<Value SlotType="9" ForceEffectIndex="132" ForceValue="10" ForceValueType="2" Grade="9" Tier="54" Rate="0.01" />
+			<Value SlotType="9" ForceEffectIndex="132" ForceValue="13" ForceValueType="2" Grade="10" Tier="54" Rate="0.001" />
+		</Pool>
+		<Pool ID="42">
+			<Value SlotType="9" ForceEffectIndex="113" ForceValue="2" ForceValueType="1" Grade="1" Tier="44" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="113" ForceValue="3" ForceValueType="1" Grade="2" Tier="44" Rate="25.839" />
+			<Value SlotType="9" ForceEffectIndex="113" ForceValue="4" ForceValueType="1" Grade="3" Tier="44" Rate="25" />
+			<Value SlotType="9" ForceEffectIndex="113" ForceValue="5" ForceValueType="1" Grade="4" Tier="44" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="113" ForceValue="6" ForceValueType="1" Grade="5" Tier="44" Rate="8" />
+			<Value SlotType="9" ForceEffectIndex="113" ForceValue="7" ForceValueType="1" Grade="6" Tier="44" Rate="1" />
+			<Value SlotType="9" ForceEffectIndex="113" ForceValue="8" ForceValueType="1" Grade="7" Tier="44" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="113" ForceValue="10" ForceValueType="1" Grade="8" Tier="44" Rate="0.05" />
+			<Value SlotType="9" ForceEffectIndex="113" ForceValue="12" ForceValueType="1" Grade="9" Tier="44" Rate="0.01" />
+			<Value SlotType="9" ForceEffectIndex="113" ForceValue="18" ForceValueType="1" Grade="10" Tier="44" Rate="0.001" />
+		</Pool>
+		<Pool ID="43">
+			<Value SlotType="9" ForceEffectIndex="1" ForceValue="5" ForceValueType="1" Grade="1" Tier="54" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="1" ForceValue="10" ForceValueType="1" Grade="2" Tier="54" Rate="25.839" />
+			<Value SlotType="9" ForceEffectIndex="1" ForceValue="15" ForceValueType="1" Grade="3" Tier="54" Rate="25" />
+			<Value SlotType="9" ForceEffectIndex="1" ForceValue="20" ForceValueType="1" Grade="4" Tier="54" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="1" ForceValue="30" ForceValueType="1" Grade="5" Tier="54" Rate="8" />
+			<Value SlotType="9" ForceEffectIndex="1" ForceValue="40" ForceValueType="1" Grade="6" Tier="54" Rate="1" />
+			<Value SlotType="9" ForceEffectIndex="1" ForceValue="50" ForceValueType="1" Grade="7" Tier="54" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="1" ForceValue="60" ForceValueType="1" Grade="8" Tier="54" Rate="0.05" />
+			<Value SlotType="9" ForceEffectIndex="1" ForceValue="70" ForceValueType="1" Grade="9" Tier="54" Rate="0.01" />
+			<Value SlotType="9" ForceEffectIndex="1" ForceValue="100" ForceValueType="1" Grade="10" Tier="54" Rate="0.001" />
+		</Pool>
+		<Pool ID="44">
+			<Value SlotType="9" ForceEffectIndex="5" ForceValue="4" ForceValueType="1" Grade="1" Tier="44" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="5" ForceValue="6" ForceValueType="1" Grade="2" Tier="44" Rate="25.839" />
+			<Value SlotType="9" ForceEffectIndex="5" ForceValue="8" ForceValueType="1" Grade="3" Tier="44" Rate="25" />
+			<Value SlotType="9" ForceEffectIndex="5" ForceValue="10" ForceValueType="1" Grade="4" Tier="44" Rate="20" />
+			<Value SlotType="9" ForceEffectIndex="5" ForceValue="12" ForceValueType="1" Grade="5" Tier="44" Rate="8" />
+			<Value SlotType="9" ForceEffectIndex="5" ForceValue="14" ForceValueType="1" Grade="6" Tier="44" Rate="1" />
+			<Value SlotType="9" ForceEffectIndex="5" ForceValue="16" ForceValueType="1" Grade="7" Tier="44" Rate="0.1" />
+			<Value SlotType="9" ForceEffectIndex="5" ForceValue="18" ForceValueType="1" Grade="8" Tier="44" Rate="0.05" />
+			<Value SlotType="9" ForceEffectIndex="5" ForceValue="21" ForceValueType="1" Grade="9" Tier="44" Rate="0.01" />
+			<Value SlotType="9" ForceEffectIndex="5" ForceValue="30" ForceValueType="1" Grade="10" Tier="44" Rate="0.001" />
+		</Pool>
+	</MasterySlotValuePool>
+
+	<RewardTiers>
+		<SlotTier Tier="1">
+		  <Level Lv="1" Point="360"/>
+		  <Level Lv="2" Point="600"/>
+		</SlotTier>
+		<SlotTier Tier="2">
+		  <Level Lv="1" Point="240"/>
+		  <Level Lv="2" Point="360"/>
+		  <Level Lv="3" Point="600"/>
+		</SlotTier>
+		<SlotTier Tier="3">
+		  <Level Lv="1" Point="150"/>
+		  <Level Lv="2" Point="180"/>
+		  <Level Lv="3" Point="240"/>
+		  <Level Lv="4" Point="360"/>
+		  <Level Lv="5" Point="600"/>
+		</SlotTier>
+		<SlotTier Tier="4">
+		  <Level Lv="1" Point="120"/>
+		  <Level Lv="2" Point="150"/>
+		  <Level Lv="3" Point="180"/>
+		  <Level Lv="4" Point="195"/>
+		  <Level Lv="5" Point="210"/>
+		  <Level Lv="6" Point="225"/>
+		  <Level Lv="7" Point="240"/>
+		  <Level Lv="8" Point="300"/>
+		  <Level Lv="9" Point="360"/>
+		  <Level Lv="10" Point="600"/>
+		</SlotTier>
+		<SlotTier Tier="11">
+		  <Level Lv="1" Point="300"/>
+		  <Level Lv="2" Point="500"/>
+		</SlotTier>
+		<SlotTier Tier="12">
+		  <Level Lv="1" Point="200"/>
+		  <Level Lv="2" Point="300"/>
+		  <Level Lv="3" Point="500"/>
+		</SlotTier>
+		<SlotTier Tier="13">
+		  <Level Lv="1" Point="125"/>
+		  <Level Lv="2" Point="150"/>
+		  <Level Lv="3" Point="200"/>
+		  <Level Lv="4" Point="300"/>
+		  <Level Lv="5" Point="500"/>
+		</SlotTier>
+		<SlotTier Tier="14">
+		  <Level Lv="1" Point="100"/>
+		  <Level Lv="2" Point="125"/>
+		  <Level Lv="3" Point="150"/>
+		  <Level Lv="4" Point="163"/>
+		  <Level Lv="5" Point="175"/>
+		  <Level Lv="6" Point="188"/>
+		  <Level Lv="7" Point="200"/>
+		  <Level Lv="8" Point="250"/>
+		  <Level Lv="9" Point="300"/>
+		  <Level Lv="10" Point="500"/>
+		</SlotTier>
+		<SlotTier Tier="21">
+		  <Level Lv="1" Point="276"/>
+		  <Level Lv="2" Point="460"/>
+		</SlotTier>
+		<SlotTier Tier="22">
+		  <Level Lv="1" Point="184"/>
+		  <Level Lv="2" Point="276"/>
+		  <Level Lv="3" Point="460"/>
+		</SlotTier>
+		<SlotTier Tier="23">
+		  <Level Lv="1" Point="115"/>
+		  <Level Lv="2" Point="138"/>
+		  <Level Lv="3" Point="184"/>
+		  <Level Lv="4" Point="276"/>
+		  <Level Lv="5" Point="460"/>
+		</SlotTier>
+		<SlotTier Tier="24">
+		  <Level Lv="1" Point="92"/>
+		  <Level Lv="2" Point="115"/>
+		  <Level Lv="3" Point="138"/>
+		  <Level Lv="4" Point="150"/>
+		  <Level Lv="5" Point="161"/>
+		  <Level Lv="6" Point="173"/>
+		  <Level Lv="7" Point="184"/>
+		  <Level Lv="8" Point="230"/>
+		  <Level Lv="9" Point="276"/>
+		  <Level Lv="10" Point="460"/>
+		</SlotTier>
+		<SlotTier Tier="31">
+		  <Level Lv="1" Point="240"/>
+		  <Level Lv="2" Point="400"/>
+		</SlotTier>
+		<SlotTier Tier="32">
+		  <Level Lv="1" Point="160"/>
+		  <Level Lv="2" Point="240"/>
+		  <Level Lv="3" Point="400"/>
+		</SlotTier>
+		<SlotTier Tier="33">
+		  <Level Lv="1" Point="100"/>
+		  <Level Lv="2" Point="120"/>
+		  <Level Lv="3" Point="160"/>
+		  <Level Lv="4" Point="240"/>
+		  <Level Lv="5" Point="400"/>
+		</SlotTier>
+		<SlotTier Tier="34">
+		  <Level Lv="1" Point="80"/>
+		  <Level Lv="2" Point="100"/>
+		  <Level Lv="3" Point="120"/>
+		  <Level Lv="4" Point="130"/>
+		  <Level Lv="5" Point="140"/>
+		  <Level Lv="6" Point="150"/>
+		  <Level Lv="7" Point="160"/>
+		  <Level Lv="8" Point="200"/>
+		  <Level Lv="9" Point="240"/>
+		  <Level Lv="10" Point="400"/>
+		</SlotTier>
+		<SlotTier Tier="41">
+		  <Level Lv="1" Point="168"/>
+		  <Level Lv="2" Point="280"/>
+		</SlotTier>
+		<SlotTier Tier="42">
+		  <Level Lv="1" Point="112"/>
+		  <Level Lv="2" Point="168"/>
+		  <Level Lv="3" Point="280"/>
+		</SlotTier>
+		<SlotTier Tier="43">
+		  <Level Lv="1" Point="70"/>
+		  <Level Lv="2" Point="84"/>
+		  <Level Lv="3" Point="112"/>
+		  <Level Lv="4" Point="168"/>
+		  <Level Lv="5" Point="280"/>
+		</SlotTier>
+		<SlotTier Tier="44">
+		  <Level Lv="1" Point="56"/>
+		  <Level Lv="2" Point="70"/>
+		  <Level Lv="3" Point="84"/>
+		  <Level Lv="4" Point="91"/>
+		  <Level Lv="5" Point="98"/>
+		  <Level Lv="6" Point="105"/>
+		  <Level Lv="7" Point="112"/>
+		  <Level Lv="8" Point="140"/>
+		  <Level Lv="9" Point="168"/>
+		  <Level Lv="10" Point="280"/>
+		</SlotTier>
+		<SlotTier Tier="51">
+		  <Level Lv="1" Point="144"/>
+		  <Level Lv="2" Point="240"/>
+		</SlotTier>
+		<SlotTier Tier="52">
+		  <Level Lv="1" Point="96"/>
+		  <Level Lv="2" Point="144"/>
+		  <Level Lv="3" Point="240"/>
+		</SlotTier>
+		<SlotTier Tier="53">
+		  <Level Lv="1" Point="60"/>
+		  <Level Lv="2" Point="72"/>
+		  <Level Lv="3" Point="96"/>
+		  <Level Lv="4" Point="144"/>
+		  <Level Lv="5" Point="240"/>
+		</SlotTier>
+		<SlotTier Tier="54">
+		  <Level Lv="1" Point="48"/>
+		  <Level Lv="2" Point="60"/>
+		  <Level Lv="3" Point="72"/>
+		  <Level Lv="4" Point="78"/>
+		  <Level Lv="5" Point="84"/>
+		  <Level Lv="6" Point="90"/>
+		  <Level Lv="7" Point="96"/>
+		  <Level Lv="8" Point="120"/>
+		  <Level Lv="9" Point="144"/>
+		  <Level Lv="10" Point="240"/>
+		</SlotTier>
+		<SlotTier Tier="61">
+		  <Level Lv="1" Point="132"/>
+		  <Level Lv="2" Point="220"/>
+		</SlotTier>
+		<SlotTier Tier="62">
+		  <Level Lv="1" Point="88"/>
+		  <Level Lv="2" Point="132"/>
+		  <Level Lv="3" Point="220"/>
+		</SlotTier>
+		<SlotTier Tier="63">
+		  <Level Lv="1" Point="55"/>
+		  <Level Lv="2" Point="66"/>
+		  <Level Lv="3" Point="88"/>
+		  <Level Lv="4" Point="132"/>
+		  <Level Lv="5" Point="220"/>
+		</SlotTier>
+		<SlotTier Tier="64">
+		  <Level Lv="1" Point="44"/>
+		  <Level Lv="2" Point="55"/>
+		  <Level Lv="3" Point="66"/>
+		  <Level Lv="4" Point="72"/>
+		  <Level Lv="5" Point="77"/>
+		  <Level Lv="6" Point="83"/>
+		  <Level Lv="7" Point="88"/>
+		  <Level Lv="8" Point="110"/>
+		  <Level Lv="9" Point="132"/>
+		  <Level Lv="10" Point="220"/>
+		</SlotTier>
+		<SlotTier Tier="71">
+		  <Level Lv="1" Point="120"/>
+		  <Level Lv="2" Point="200"/>
+		</SlotTier>
+		<SlotTier Tier="72">
+		  <Level Lv="1" Point="80"/>
+		  <Level Lv="2" Point="120"/>
+		  <Level Lv="3" Point="200"/>
+		</SlotTier>
+		<SlotTier Tier="73">
+		  <Level Lv="1" Point="50"/>
+		  <Level Lv="2" Point="60"/>
+		  <Level Lv="3" Point="80"/>
+		  <Level Lv="4" Point="120"/>
+		  <Level Lv="5" Point="200"/>
+		</SlotTier>
+		<SlotTier Tier="74">
+		  <Level Lv="1" Point="40"/>
+		  <Level Lv="2" Point="50"/>
+		  <Level Lv="3" Point="60"/>
+		  <Level Lv="4" Point="65"/>
+		  <Level Lv="5" Point="70"/>
+		  <Level Lv="6" Point="75"/>
+		  <Level Lv="7" Point="80"/>
+		  <Level Lv="8" Point="100"/>
+		  <Level Lv="9" Point="120"/>
+		  <Level Lv="10" Point="200"/>
+		</SlotTier>
+	</RewardTiers>
+
+</MythMastery>

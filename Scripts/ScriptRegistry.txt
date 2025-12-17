@@ -1,0 +1,1 @@
+AddItemScript 33556304 Items/spawn_mazel.lua

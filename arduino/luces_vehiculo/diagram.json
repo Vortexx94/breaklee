@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "author": "Control de luces de vehiculo",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 0, "left": 0, "attrs": {} },
+
+    { "type": "wokwi-slide-switch", "id": "swIzq", "top": -120, "left": 60, "attrs": {} },
+    { "type": "wokwi-slide-switch", "id": "swDer", "top": -120, "left": 130, "attrs": {} },
+    { "type": "wokwi-slide-switch", "id": "swParqueo", "top": -120, "left": 200, "attrs": {} },
+    { "type": "wokwi-slide-switch", "id": "swReversa", "top": -120, "left": 270, "attrs": {} },
+
+    { "type": "wokwi-led", "id": "ledIzq", "top": -150, "left": 380, "attrs": { "color": "orange", "label": "IZQ" } },
+    { "type": "wokwi-led", "id": "ledDer", "top": -150, "left": 440, "attrs": { "color": "orange", "label": "DER" } },
+    { "type": "wokwi-led", "id": "ledReversa", "top": -150, "left": 500, "attrs": { "color": "white", "label": "REV" } },
+
+    { "type": "wokwi-resistor", "id": "r1", "top": -60, "left": 370, "rotate": 90, "attrs": { "value": "220" } },
+    { "type": "wokwi-resistor", "id": "r2", "top": -60, "left": 430, "rotate": 90, "attrs": { "value": "220" } },
+    { "type": "wokwi-resistor", "id": "r3", "top": -60, "left": 490, "rotate": 90, "attrs": { "value": "220" } },
+
+    { "type": "wokwi-buzzer", "id": "bz1", "top": -150, "left": 560, "attrs": { "volume": "0.3" } }
+  ],
+  "connections": [
+    [ "swIzq:2", "uno:2", "green", [] ],
+    [ "swIzq:1", "uno:GND.1", "black", [] ],
+    [ "swDer:2", "uno:3", "green", [] ],
+    [ "swDer:1", "uno:GND.1", "black", [] ],
+    [ "swParqueo:2", "uno:4", "yellow", [] ],
+    [ "swParqueo:1", "uno:GND.1", "black", [] ],
+    [ "swReversa:2", "uno:5", "blue", [] ],
+    [ "swReversa:1", "uno:GND.1", "black", [] ],
+
+    [ "uno:8", "r1:2", "orange", [] ],
+    [ "r1:1", "ledIzq:A", "orange", [] ],
+    [ "ledIzq:C", "uno:GND.2", "black", [] ],
+
+    [ "uno:9", "r2:2", "orange", [] ],
+    [ "r2:1", "ledDer:A", "orange", [] ],
+    [ "ledDer:C", "uno:GND.2", "black", [] ],
+
+    [ "uno:10", "r3:2", "white", [] ],
+    [ "r3:1", "ledReversa:A", "white", [] ],
+    [ "ledReversa:C", "uno:GND.2", "black", [] ],
+
+    [ "uno:11", "bz1:2", "red", [] ],
+    [ "bz1:1", "uno:GND.3", "black", [] ]
+  ],
+  "dependencies": {}
+}
